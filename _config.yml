@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kashu Yamazaki / Site Title"
+title                    : "Qualia"
 title_separator          : "-"
 name                     : &name "Kashu Yamazaki"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kashu Yamazaki"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "AR"
+  bio              : "undergrad"
+  location         : "Fayetteville, AR"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Kashu7100"
   google_plus      :
   keybase          :
   instagram        :
