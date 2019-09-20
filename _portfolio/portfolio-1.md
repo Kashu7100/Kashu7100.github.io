@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Qualia2.0"
+excerpt: "Qualia2.0 is a deep learning framework deeply integrated with automatic differentiation and dynamic graphing with CUDA acceleration. Qualia2.0 was built from scratch with pure python3 code.<br/><img src='https://github.com/Kashu7100/Qualia2.0/blob/master/assets/qualia.png'>"
 collection: portfolio
 ---
+David J. Chalmers, an Australian philosopher and cognitive scientist, onece argued that if a system reproduces the functional organization of the brain, it will also reproduce the qualia associated with the brain in the paper "Absent Qualia, Fading Qualia, Dancing Qualia." This library "Qualia" named after the series of arguments in philosophy of mind associated with the qualia, hoping for the creation of a system with subjective consciousness.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Qualia is a deep learning framework deeply integrated with automatic differentiation and dynamic graphing with CUDA acceleration. Thanks to the define-by-run API, the code written with Qualia enjoys high modularity.
