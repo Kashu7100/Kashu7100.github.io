@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, University of Arkansas, Fayetteville, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019 - Present: Research Assistant
+  * University of Arkansas, Fayetteville
+  * Duties included: 
+  * Supervisor: Yue Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Fall 2018: Teaching Assistant
+  * University of Arkansas, Fayetteville
+  * Duties included: 
+  * Supervisor: [Ing-Chang Jong](https://icjong.hosted.uark.edu/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SolidWorks
+* Programing
+  * Python 3
+  * C++
+  * Java
+  * JavaScript
+* Mechatronics
 
 Publications
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm) 
