@@ -1,6 +1,6 @@
 ---
 title: "Qualia2.0"
-excerpt: "Qualia2.0 is a deep learning framework built from scratch.<br/><img src='/images/qualia.png'>"
+excerpt: "Dynamic deep learning framework built from scratch<br/><img src='/images/qualia.png'>"
 collection: portfolio
 ---
 [github](https://github.com/Kashu7100/Qualia2.0)
