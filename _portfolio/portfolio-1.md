@@ -14,11 +14,11 @@ Qualia is a deep learning framework deeply integrated with automatic differentia
 ### Examples
 
 <p align="center">
-  <img src="/images/baseball.gif"/>
+  <img src="/images/baseball.gif" width=500/>
 </p>
 <p align="center">
-  <img src="/images/bipedal_walker_td3.gif"/>
+  <img src="/images/bipedal_walker_td3.gif" width=500/>
 </p>
 <p align="center">
-  <img src="/images/gan_mnist.gif"/>
+  <img src="/images/gan_mnist.gif" width=500/>
 </p>
