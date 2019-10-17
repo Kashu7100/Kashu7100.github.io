@@ -10,6 +10,7 @@ redirect_from:
 
 About me
 ======
+- Undergraduate research assistant in the [Mechanical Engineering](https://mechanical-engineering.uark.edu/) department at University of Arkansas, Fayetteville, advised by Dr. [Yue Chen](https://mechanical-engineering.uark.edu/Directory/index/uid/yc039/name/Yue+Chen/).
 
 
 Recent News
