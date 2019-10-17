@@ -19,4 +19,4 @@ Three major steps:
 1. Draw the free-body (FBD) diagram. 
 2. Draw the virtual-displacement diagram (VDD) with a strategy.
 3. Set the total virtual work done to zero in order to solve for the unknown.
-- strategy: give the free body a compatible virtual displacementin such a way that the onespecified unknown, but no other unknowns, will be involved in the virtual work done
+> strategy: give the free body a compatible virtual displacementin such a way that the onespecified unknown, but no other unknowns, will be involved in the virtual work done
