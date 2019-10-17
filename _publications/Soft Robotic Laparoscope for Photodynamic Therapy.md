@@ -3,7 +3,7 @@ title: "Soft Robotic Laparoscope for Photodynamic Therapy"
 collection: publications
 permalink: /publication/2019-09-06-paper-1
 excerpt: '' 
-date: ''
+date: 2019-09-06
 venue: ''
 paperurl: 'https://spie.org/PWB/conferencedetails/photodynamic-therapy?SSO=1'
 citation: ''
