@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-- Undergraduate research assistant in the [Mechanical Engineering](https://mechanical-engineering.uark.edu/) department at University of Arkansas, Fayetteville, advised by Dr. [Yue Chen](https://mechanical-engineering.uark.edu/Directory/index/uid/yc039/name/Yue+Chen/).
+- Undergraduate research assistant in the [Mechanical Engineering](https://mechanical-engineering.uark.edu/) Department at the University of Arkansas, Fayetteville, advised by Dr. [Yue Chen](https://mechanical-engineering.uark.edu/Directory/index/uid/yc039/name/Yue+Chen/) and Dr. [Nang Le](https://engineering.uark.edu/directory/index/uid/thile/name/Thi+Hoang+Ngan+Le/).
 
 
 Recent News
