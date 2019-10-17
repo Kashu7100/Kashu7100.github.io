@@ -14,4 +14,4 @@ About me
 
 Recent News
 ======
-- 
+- September 6, 2019. Two papers accepted to [SPIE](https://spie.org/PWB/conferencedetails/photodynamic-therapy?SSO=1)
