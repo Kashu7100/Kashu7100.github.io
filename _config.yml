@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kashu Yamazaki"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kashu Yamazaki"
 description              : &description "personal description"
