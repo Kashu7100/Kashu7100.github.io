@@ -3,13 +3,14 @@ title: "Recreation of Nature"
 excerpt: "ALife simulation with Python <br/><img src='/images/recreation_of_nature.png'>"
 collection: portfolio
 ---
+[[github]](https://github.com/Kashu7100/Recreation-of-Nature)
 
 ### Examples
 ### swarm formation
 
 In the following simulation of swarm formation, we can see the process of agents, which were initially at random points in space, forming a swarm.  
 
-[[full video]](https://youtu.be/91VI1aa79-o)      [[source]](/swarm/examples/swarm_formation.py)
+[[full video]](https://youtu.be/91VI1aa79-o) 
 
 <p align="center">
   <img src="/images/boids_swarm_formation.gif" width="500"/>
@@ -19,7 +20,7 @@ In the following simulation of swarm formation, we can see the process of agents
 
 In the following simulation of predation, we can see a simulated interaction of predator and prey; one kills and eats another organism, where the predator is represented by the red arrow and the prey is represented by the blue arrow. This simulation aimed to simulate the motion of fish.
 
-[[full video]](https://www.youtube.com/watch?v=ITv39Q1UePA)      [[source]](/swarm/examples/predator_prey.py)
+[[full video]](https://www.youtube.com/watch?v=ITv39Q1UePA)
 
 <p align="center">
   <img src="/images/boids_predator_prey.gif"  width="500"/>
