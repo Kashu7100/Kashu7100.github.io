@@ -1,7 +1,7 @@
 ---
 title: 'Convert math equations to numpy'
 date: 2019-10-23
-permalink: /posts/2019/10/Convert math equations to numpy/
+permalink: /posts/2019/10/Convert-math-equations-to-numpy/
 tags:
   - python
   - math
