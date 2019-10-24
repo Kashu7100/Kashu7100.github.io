@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Convert math equations to numpy'
+date: 2019-10-23
+permalink: /posts/2019/10/Convert math equations to numpy/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - python
+  - math
 ---
 
 # Convert math equations to numpy
