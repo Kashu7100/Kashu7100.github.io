@@ -14,7 +14,7 @@ About me
 
 - My research interests focus on deep learning, robotics, and computational neuroscience. In particular, I am interested in the human intelligence and locomotion, and replicating the intelligent behavior in machines.
 
-- Outside of research, I also have experience working on both software and hardware for robotics and deep learning related projects.
+- Outside of research, I also have experiences working on both software and hardware for robotics and deep learning related projects.
 
 Recent News
 ======
