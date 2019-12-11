@@ -17,9 +17,7 @@ Lecture Contents
 
 Sample Exams
 ---
-- [Test1](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf)
-- [Test2](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf)
-- [Test3](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf)
+[Test1](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf), [Test2](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf), [Test3](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf)
 
 Important Topics
 ---
