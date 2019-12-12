@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-- Undergraduate research assistant in the [Mechanical Engineering](https://mechanical-engineering.uark.edu/) Department at the University of Arkansas, Fayetteville, advised by Dr. [Yue Chen](https://mechanical-engineering.uark.edu/Directory/index/uid/yc039/name/Yue+Chen/) and Dr. [Ngan Le](https://engineering.uark.edu/directory/index/uid/thile/name/Thi+Hoang+Ngan+Le/).
+- Undergraduate research assistant in the [Mechanical Engineering](https://mechanical-engineering.uark.edu/) Department  advised by Dr. [Yue Chen](https://mechanical-engineering.uark.edu/Directory/index/uid/yc039/name/Yue+Chen/) and the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://engineering.uark.edu/directory/index/uid/thile/name/Thi+Hoang+Ngan+Le/) at the University of Arkansas, Fayetteville.
 
 - My research interests focus on deep learning, robotics, and computational neuroscience. In particular, I am interested in the human intelligence and locomotion, and replicating the intelligent behavior in machines.
 
