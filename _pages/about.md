@@ -21,3 +21,4 @@ Recent News
 - September 6, 2019. Two papers are accepted to [SPIE](https://spie.org/PWB/conferencedetails/photodynamic-therapy?SSO=1)
 - November 30, 2017. Initiated as member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
 - November 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
+- August 22, 2016. Started School at the University of Arkansas, Fayetteville.
