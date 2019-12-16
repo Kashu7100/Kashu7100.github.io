@@ -29,7 +29,7 @@
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
     {% elsif post.collection == 'portfolio' %}
-      <img src={{post.image}} height="150">
+      <img src="{{post.image}}" height="150">
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
@@ -47,7 +47,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
-    {% if post.collection != 'publications' || post.collection != 'portfolio' %}
+    {% if post.collection != 'publications' && post.collection != 'portfolio' %}
       {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
