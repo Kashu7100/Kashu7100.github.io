@@ -1,6 +1,7 @@
 /* ==========================================================================
    Syntax highlighting
    ========================================================================== */
+//$type-size-6                  : 0.75em !default;   // ~12px
 
 div.highlighter-rouge, figure.highlight {
   position: relative;
@@ -19,7 +20,7 @@ div.highlighter-rouge, figure.highlight {
     background-color: $lighter-gray;
     /*content: "\f121";*/
     font-family: "fontawesome" !important;
-    font-size: $type-size-12;
+    font-size: 0.75em;
     line-height: 1;
     text-transform: none;
     speak: none;
