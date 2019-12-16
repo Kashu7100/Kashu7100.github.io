@@ -1,7 +1,10 @@
 ---
 title: "Soft Robotic Laparoscope for Photodynamic Therapy"
+authors: "Yucheng Li, <b>Kashu Yamazaki</b>, Yang Liu, Dawei Zhang, Qing Xie, Meng Su, Mingfeng Bai,and Yue Chen."
 collection: publications
-permalink: /publication/2019-09-06-paper-1
+permalink: /publication/2019-09-paper-1
+type: "journal paper"
+publication: "SPIE"
 date: 2019-09-06
 ---
 
