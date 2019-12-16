@@ -29,10 +29,10 @@
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
     {% elsif post.collection == 'portfolio' %}
-      <table border="1">
+      <table border="0">
         <tr>
-          <th><img src="{{post.image}}" height="150"> test img</th>
-          <th> {{ title }} <br/> {{post.excerpt}}</th>
+          <th><img src="{{post.image}}" height="150"></th>
+          <th> <h2>{{ title }}</h2> <br/><p> {{post.excerpt}} </p></th>
         </tr>
       </table>
     {% else %}
