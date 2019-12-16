@@ -28,7 +28,7 @@
 
     {% if post.collection == 'publications' %}
       <!--<h2 class="archive__item-title" itemprop="headline">-->
-      <p> {{post.authors}} <a href="{{ post.link }}">{{ title }}</a> {{post.publication}}, {{split post.date "-"}}</p>
+      <p> {{post.authors}} <a href="{{ post.link }}">{{ title }}</a>. {{post.publication}}, {{split post.date "-" .Get 0}}</p>
       <!--</h2>-->
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
@@ -47,11 +47,12 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
-
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% if post.collection != 'publications' %}
+      {% if post.excerpt and site.read_more != 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% elsif post.excerpt and site.read_more == 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      {% endif %}
     {% endif %}
     
     {% if post.citation and post.paperurl %}
