@@ -27,9 +27,9 @@
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <h2 class="archive__item-title" itemprop="headline">
-        <p> {{post.authors}} <a href="{{ post.link }}">{{ title }}</a></p>
-      </h2>
+      <!--<h2 class="archive__item-title" itemprop="headline">-->
+      <p> {{post.authors}} <a href="{{ post.link }}">{{ title }}</a> {{post.publication}}, {{split post.date "-"}}</p>
+      <!--</h2>-->
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
