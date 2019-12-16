@@ -28,14 +28,13 @@
 
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
-    {% elseif post.collection == 'portfolio' %}
-    <p> Test </p>
-      <!--<table border="1">
+    {% elsif post.collection == 'portfolio' %}
+      <table border="1">
         <tr>
           <th><img src="{{post.image}}" height="150"> test img</th>
           <th> {{ title }} <br/> {{post.excerpt}}</th>
         </tr>
-      </table>--> 
+      </table>
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
