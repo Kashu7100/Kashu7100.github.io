@@ -1,6 +1,10 @@
 ---
 title: "Recreation of Nature"
-excerpt: "ALife simulation with Python <br/><img src='/images/recreation_of_nature.png'>"
+excerpt: "ALife simulation with Python"
+image: "/images/recreation_of_nature.png" 
+github: "https://github.com/Kashu7100/Recreation-of-Nature"
+docs: ""
+pdf: ""
 collection: portfolio
 ---
 [[github]](https://github.com/Kashu7100/Recreation-of-Nature)
