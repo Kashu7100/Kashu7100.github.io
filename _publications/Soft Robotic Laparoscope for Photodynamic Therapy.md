@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/2019-09-paper-1
 type: "journal paper"
 publication: "SPIE"
+year: "2019"
 date: 2019-09-06
 ---
 
