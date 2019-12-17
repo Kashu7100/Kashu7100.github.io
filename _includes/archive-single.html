@@ -29,7 +29,21 @@
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
     {% elsif post.collection == 'portfolio' %}
-      <img src="{{post.image}}" height="150">
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tbody>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src='images/nightsight_before.jpg'>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+              <br>
+              <p> {{post.excerpt}} </p>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+    <img src="{{post.image}}" height="150">
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
