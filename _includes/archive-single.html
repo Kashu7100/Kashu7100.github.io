@@ -35,9 +35,9 @@
               <p align="center"><img src="{{post.image}}" width="250"/></p>
             </td>
             <td style="padding:20px;width:75%">
-              <h2>
-                <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-              </h2>
+              
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+              <br>
               <p> {{post.excerpt}} </p>
               {% if post.github != 'None' %}
                 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='{{post.github}}'">github</button>
