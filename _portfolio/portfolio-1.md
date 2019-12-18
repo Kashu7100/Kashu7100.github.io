@@ -9,6 +9,8 @@ collection: portfolio
 ---
 [[github]](https://github.com/Kashu7100/Qualia2.0), [[docs]](https://kashu7100.github.io/Qualia2.0/index.html)
 
+<button class="btn btn-round btn-sm btn-ghost-grey">Submit</button>
+
 ### Introduction
 
 David J. Chalmers, an Australian philosopher and cognitive scientist, onece argued that if a system reproduces the functional organization of the brain, it will also reproduce the qualia associated with the brain in the paper "Absent Qualia, Fading Qualia, Dancing Qualia." This library "Qualia" named after the series of arguments in philosophy of mind associated with the qualia, hoping for the creation of a system with subjective consciousness.
