@@ -33,7 +33,7 @@
         <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src='{{ post.image }}'>
+              <img src="{{post.image}}" height="150">
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -43,7 +43,7 @@
           </tr>
         </tbody>
     </table>
-    <img src="{{post.image}}" height="150">
+    
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
