@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-
- --- | --- 
+| | | 
+-- | -- 
  test | test 
  hoge | hoge
 
