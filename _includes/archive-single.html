@@ -35,7 +35,9 @@
               <p align="center"><img src="{{post.image}}" height="180"/></p>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+              </h2>
               <br><p> {{post.excerpt}} </p>
             </td>
         </tr></tbody>
