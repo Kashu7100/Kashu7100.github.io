@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <p align="center">
-  <img src="https://github.com/Kashu7100/Kashu7100.github.io/blob/master/images/qualia.png" />
+  <img src="/images/qualia.png" />
 </p>
 
 
