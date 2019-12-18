@@ -37,6 +37,9 @@ Qualia is a deep learning framework deeply integrated with automatic differentia
         <p align="center"><img src="/images/lorenz_compare.png" width="200"/></p>
       </td>
       <td>
+        <p align="center"><img src="/images/mnist_map_colored.png" width="200"/></p>
+      </td>
+      <td>
         <p align="center"><img src="/images/gan_mnist.gif" width="200"/></p>
       </td>
     </tr>
