@@ -146,9 +146,6 @@
 }
 
 @import "compass";
-@import "https://fonts.googleapis.com/css?family=Ubuntu:400";
-@import url(https://fonts.googleapis.com/css?family=Lobster);
-
 $green-color: #2ecc71;
 $red-color: #e74c3c;
 $yellow-color: #f1c40f;
@@ -157,7 +154,6 @@ $blue-color: #3498db;
 $grey-color: #7f8c8d;
 $white-color: #fff;
 $border-radius: 20px;
-
 $button-padding: 15px;
 
 @mixin column($size) {
@@ -210,11 +206,7 @@ body {
     background-color: transparent;
     outline:0;
     @include transition(background-color 0.3s ease);
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.btn-square {
-    border:0;
+    font-family: $serif;
 }
 
 .btn-round {
@@ -285,22 +277,12 @@ body {
     @include button-ghost($grey-color);
 }
 
-h2 {
-    color: #fff;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-    font-weight: 300;
-}
-
 .btn {
     color: $white-color;   
     background-color: transparent;
     outline:0;
     @include transition(background-color 0.3s ease);
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.btn-square {
-    border:0;
+    font-family: $serif;
 }
 
 .btn-round {
