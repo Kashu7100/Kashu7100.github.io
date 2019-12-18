@@ -29,10 +29,10 @@
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
     {% elsif post.collection == 'portfolio' %}
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;">
         <tbody><tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <p align="center"><img src="{{post.image}}" width="200"/></p>
+              <p align="center"><img src="{{post.image}}" width="220"/></p>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <h2 class="archive__item-title" itemprop="headline">
