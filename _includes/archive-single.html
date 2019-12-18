@@ -32,11 +32,10 @@
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <p align="center"><img src="{{post.image}}" width="250"/></p>
+              <p align="center"><img src="{{post.image}}" width="280"/></p>
             </td>
             <td style="padding:20px;width:75%">
-              
-              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+              <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
               <br>
               <p> {{post.excerpt}} </p>
               {% if post.github != 'None' %}
