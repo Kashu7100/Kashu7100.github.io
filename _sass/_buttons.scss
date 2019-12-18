@@ -144,3 +144,259 @@
     font-size: $type-size-7;
   }
 }
+
+@import "compass";
+@import "https://fonts.googleapis.com/css?family=Ubuntu:400";
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+$green-color: #2ecc71;
+$red-color: #e74c3c;
+$yellow-color: #f1c40f;
+$orange-color: #e67e22;
+$blue-color: #3498db;
+$grey-color: #7f8c8d;
+$white-color: #fff;
+$border-radius: 20px;
+
+$button-padding: 15px;
+
+@mixin column($size) {
+    width: (100%/12)*$size;
+}
+
+@mixin button-filled($color) {
+    background-color: $color;
+    
+    &:hover {
+        background-color: darken($color, 10);
+    }
+    
+    &:active {
+        @include box-shadow(inset 0 0 100px darken($color, 20));
+    }
+}
+
+@mixin button-ghost($color) {
+    border: 2px solid $color;
+    
+    &:hover {
+        background-color: $color;
+    }
+    
+    &:active {
+        background-color: darken($color, 10);
+    }
+}
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    -ms-border-radius: $radius;
+    border-radius: $radius;
+}
+
+body {
+    background-color: #34495e;
+    color: #fff;
+    margin:1em;
+}
+
+.btn:not(last-child) {
+  margin-right:1em;
+}
+
+.btn {
+    color: $white-color;   
+    background-color: transparent;
+    outline:0;
+    @include transition(background-color 0.3s ease);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-square {
+    border:0;
+}
+
+.btn-round {
+    border:0;
+    @include border-radius($border-radius);
+}
+
+.btn-lg {
+    padding: $button-padding/1.5 $button-padding*2.5 $button-padding/1.5 $button-padding*2.5;
+    font-size: 1.2em;
+}
+
+.btn-md {
+    padding: $button-padding/2 $button-padding*2 $button-padding/2 $button-padding*2;
+    font-size: 1em;
+}
+
+.btn-sm {
+    padding: $button-padding/2.5 $button-padding*1.5 $button-padding/2.5 $button-padding*1.5;
+    font-size: 0.8em;
+}
+
+.btn-filled-green {
+    @include button-filled($green-color);
+}
+
+.btn-filled-blue {
+    @include button-filled($blue-color);
+}
+
+.btn-filled-red {
+    @include button-filled($red-color);
+}
+
+.btn-filled-orange {
+    @include button-filled($orange-color);
+}
+
+.btn-filled-yellow {
+    @include button-filled($yellow-color);
+}
+
+.btn-filled-grey {
+    @include button-filled($grey-color);
+}
+
+.btn-ghost-green {
+    @include button-ghost($green-color);
+}
+
+.btn-ghost-blue {
+    @include button-ghost($blue-color);
+}
+
+.btn-ghost-red {
+    @include button-ghost($red-color);
+}
+
+.btn-ghost-orange {
+    @include button-ghost($orange-color);
+}
+
+.btn-ghost-yellow {
+    @include button-ghost($yellow-color);
+}
+
+.btn-ghost-grey {
+    @include button-ghost($grey-color);
+}
+
+h2 {
+    color: #fff;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+.btn {
+    color: $white-color;   
+    background-color: transparent;
+    outline:0;
+    @include transition(background-color 0.3s ease);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-square {
+    border:0;
+}
+
+.btn-round {
+    border:0;
+    @include border-radius($border-radius);
+}
+
+.btn-lg {
+    padding: $button-padding/1.5 $button-padding*2.5 $button-padding/1.5 $button-padding*2.5;
+    font-size: 1.2em;
+}
+
+.btn-md {
+    padding: $button-padding/2 $button-padding*2 $button-padding/2 $button-padding*2;
+    font-size: 1em;
+}
+
+.btn-sm {
+    padding: $button-padding/2.5 $button-padding*1.5 $button-padding/2.5 $button-padding*1.5;
+    font-size: 0.8em;
+}
+
+.btn-filled-green {
+    @include button-filled($green-color);
+}
+
+.btn-filled-blue {
+    @include button-filled($blue-color);
+}
+
+.btn-filled-red {
+    @include button-filled($red-color);
+}
+
+.btn-filled-orange {
+    @include button-filled($orange-color);
+}
+
+.btn-filled-yellow {
+    @include button-filled($yellow-color);
+}
+
+.btn-filled-grey {
+    @include button-filled($grey-color);
+}
+
+.btn-ghost-green {
+    @include button-ghost($green-color);
+}
+
+.btn-ghost-blue {
+    @include button-ghost($blue-color);
+}
+
+.btn-ghost-red {
+    @include button-ghost($red-color);
+}
+
+.btn-ghost-orange {
+    @include button-ghost($orange-color);
+}
+
+.btn-ghost-yellow {
+    @include button-ghost($yellow-color);
+}
+
+.btn-ghost-grey {
+    @include button-ghost($grey-color);
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.row:before, 
+.row:after {
+    content:"";
+    display: table ;
+    clear:both;
+}
+
+.col-6 {
+    @include column(6);
+    float: left;
+    min-height:1px;
+}
+
+.col-12 {
+  @include column(12);
+  min-height:1px;
+  text-align:center;
+}
+
+*, *:before, *:after {
+  padding:0;
+  margin:0;
+}
