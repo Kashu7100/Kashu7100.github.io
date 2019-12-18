@@ -4,7 +4,7 @@ excerpt: "Dynamic deep learning framework built from scratch"
 image: "/images/qualia.png" 
 github: "https://github.com/Kashu7100/Qualia2.0"
 docs: "https://kashu7100.github.io/Qualia2.0/index.html"
-pdf: ""
+pdf: "None"
 collection: portfolio
 ---
 
