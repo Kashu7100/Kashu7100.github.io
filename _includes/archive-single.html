@@ -29,7 +29,7 @@
     {% if post.collection == 'publications' %}
       <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
     {% elsif post.collection == 'portfolio' %}
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <p align="center"><img src="{{post.image}}" width="280"/></p>
@@ -49,7 +49,14 @@
               {% endif %}
             </td>
         </tr></tbody>
-    </table>
+      </table>
+    {% elsif post.collection == 'teaching' %}
+      {% if post.link %}
+        <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
+      {% else %}
+        <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
+      {% endif %}
+      <br><p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
@@ -63,10 +70,7 @@
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
-
-    {% if post.collection == 'teaching' %}
-       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-    {% endif %}
+    
      <!--{% if post.collection != 'publications' && post.collection != 'portfolio' %}
       {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
