@@ -38,7 +38,16 @@
               <h2 class="archive__item-title" itemprop="headline">
                 <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
               </h2>
-              <p> {{post.excerpt}} </p>
+              <p> {{post.excerpt}} </p><br>
+              {% if post.github %}
+                <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='{{post.github}}'">github</button>
+              {% endif %}
+              {% if post.docs %}
+                <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='{{post.docs}}'">docs</button>
+              {% endif %}
+              {% if post.pdf %}
+                <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='{{post.pdf}}'">pdf</button>
+              {% endif %}
             </td>
         </tr></tbody>
     </table>
