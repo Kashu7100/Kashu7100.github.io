@@ -38,7 +38,7 @@
               <h2 class="archive__item-title" itemprop="headline">
                 <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
               </h2>
-              <br><p> {{post.excerpt}} </p>
+              <p> {{post.excerpt}} </p>
             </td>
         </tr></tbody>
     </table>
@@ -54,12 +54,12 @@
     
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %} 
+    {% endif %} -->
 
-     {% if post.collection == 'teaching' %}-->
+    {% if post.collection == 'teaching' %}
        <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-     <!--{% endif %}
-    {% if post.collection != 'publications' && post.collection != 'portfolio' %}
+    {% endif %}
+     <!--{% if post.collection != 'publications' && post.collection != 'portfolio' %}
       {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
