@@ -7,7 +7,8 @@ docs: ""
 pdf: ""
 collection: portfolio
 ---
-[[github]](https://github.com/Kashu7100/Recreation-of-Nature)
+
+<button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://github.com/Kashu7100/Recreation-of-Nature'">github</button>
 
 ### Examples
 ### swarm formation
