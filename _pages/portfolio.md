@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+| Component | Description |
+| --- | --- |
+| test | test |
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
