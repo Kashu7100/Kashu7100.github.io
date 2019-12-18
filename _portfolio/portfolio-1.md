@@ -7,9 +7,9 @@ docs: "https://kashu7100.github.io/Qualia2.0/index.html"
 pdf: ""
 collection: portfolio
 ---
-[[github]](https://github.com/Kashu7100/Qualia2.0), [[docs]](https://kashu7100.github.io/Qualia2.0/index.html)
 
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://github.com/Kashu7100/Qualia2.0'">github</button>
+<button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://kashu7100.github.io/Qualia2.0/index.html'">docs</button>
 
 ### Introduction
 
