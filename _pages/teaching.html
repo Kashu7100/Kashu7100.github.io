@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 class="archive__item-title" itemprop="headline"> Teaching Assistant </h2>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.type == 'Teaching Assistant' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
