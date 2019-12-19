@@ -27,42 +27,19 @@ author_profile: true
 function select_func() {
   var x = document.getElementById("pub_type").value;
   if(x == ".pubtype-0"){
-  	document.getElementById("field").innerHTML = 
-      {% for post in site.publications reversed %}
-        {% include archive-single.html %}
-      {% endfor %};
+  	document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% include archive-single.html %}{% endfor %}";
   }
   if(x == ".pubtype-1"){
-  	document.getElementById("field").innerHTML = 
-      {% for post in site.publications reversed %}
-        {% if post.type == "conference paper" || post.type == "Conference paper" %}
-          {% include archive-single.html %}
-        {% endif %}
-      {% endfor %};
+  	document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'conference paper' || post.type == 'Conference paper' %}{% include archive-single.html %}{% endif %}{% endfor %}";
   }
   if(x == ".pubtype-2"){
-    document.getElementById("field").innerHTML = 
-      {% for post in site.publications reversed %}
-        {% if post.type == "journal paper" || post.type == "Journal paper" %}
-          {% include archive-single.html %}
-        {% endif %}
-      {% endfor %};
+    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'journal paper' || post.type == 'Journal paper' %}{% include archive-single.html %}{% endif %}{% endfor %}";
   }
   if(x == ".pubtype-3"){
-    document.getElementById("field").innerHTML = 
-      {% for post in site.publications reversed %}
-        {% if post.type == "report" || post.type == "Report" %}
-          {% include archive-single.html %}
-        {% endif %}
-      {% endfor %};
+    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'report' || post.type == 'Report' %}{% include archive-single.html %}{% endif %}{% endfor %}";
   }
   if(x == ".pubtype-4"){
-    document.getElementById("field").innerHTML = 
-      {% for post in site.publications reversed %}
-        {% if post.type == "book" || post.type == "Book" %}
-          {% include archive-single.html %}
-        {% endif %}
-      {% endfor %};
+    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'book' || post.type == 'Book' %}{% include archive-single.html %}{% endif %}{% endfor %}";
   }
 }
 </script>
