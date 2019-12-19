@@ -1,0 +1,64 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p> Filter by type:
+  <select class="pubtype-select" data-filter-group="pubtype" id="pub_type" onchange="select_func.call(this)">    
+    <option value=".pubtype-0" selected>All</option>
+    <option value=".pubtype-1">Conference paper</option>
+    <option value=".pubtype-2">Journal paper</option>
+    <option value=".pubtype-3">Report</option>
+    <option value=".pubtype-4">Book section</option>
+  </select>
+</p>
+
+<p id="field"></p>
+
+<script>
+function select_func() {
+  var x = document.getElementById("pub_type").value;
+  if(x == ".pubtype-0"){
+  	document.getElementById("field").innerHTML = 
+      {% for post in site.publications reversed %}
+        {% include archive-single.html %}
+      {% endfor %};
+  }
+  if(x == ".pubtype-1"){
+  	document.getElementById("field").innerHTML = 
+      {% for post in site.publications reversed %}
+        {% if post.type == "conference paper" || post.type == "Conference paper" %}
+          {% include archive-single.html %}
+        {% endif %}
+      {% endfor %};
+  }
+  if(x == ".pubtype-2"){
+    document.getElementById("field").innerHTML = 
+      {% for post in site.publications reversed %}
+        {% if post.type == "journal paper" || post.type == "Journal paper" %}
+          {% include archive-single.html %}
+        {% endif %}
+      {% endfor %};
+  }
+  if(x == ".pubtype-3"){
+    document.getElementById("field").innerHTML = 
+      {% for post in site.publications reversed %}
+        {% if post.type == "report" || post.type == "Report" %}
+          {% include archive-single.html %}
+        {% endif %}
+      {% endfor %};
+  }
+  if(x == ".pubtype-4"){
+    document.getElementById("field").innerHTML = 
+      {% for post in site.publications reversed %}
+        {% if post.type == "book" || post.type == "Book" %}
+          {% include archive-single.html %}
+        {% endif %}
+      {% endfor %};
+  }
+}
+</script>
