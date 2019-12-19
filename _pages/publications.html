@@ -17,7 +17,11 @@ author_profile: true
   </select>
 </p>
 
-<p id="field"></p>
+<p id="field">
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %};
+</p>
 
 <script>
 function select_func() {
