@@ -51,8 +51,6 @@ author_profile: true
   {% endfor %}
 </div>
 
-init();
-
 <script>
 function init(){
   document.getElementById("all").style.display = "block";
@@ -61,6 +59,7 @@ function init(){
   document.getElementById("report").style.display = "none";
   document.getElementById("book").style.display = "none";
 }
+window.onload = init;
   
 function select_func() {
   var x = document.getElementById("pub_type").value;
