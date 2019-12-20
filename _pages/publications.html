@@ -51,19 +51,29 @@ author_profile: true
   {% endfor %}
 </div>
 
+init();
+
 <script>
+function init(){
+  document.getElementById("all").style.display = "block";
+  document.getElementById("conference").style.display = "none";
+  document.getElementById("journal").style.display = "none";
+  document.getElementById("report").style.display = "none";
+  document.getElementById("book").style.display = "none";
+}
+  
 function select_func() {
   var x = document.getElementById("pub_type").value;
   if(x == ".pubtype-0"){
     document.getElementById("all").style.display = "block";
-  	document.getElementById("conference").style.display = "none";
+    document.getElementById("conference").style.display = "none";
     document.getElementById("journal").style.display = "none";
     document.getElementById("report").style.display = "none";
     document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-1"){
     document.getElementById("all").style.display = "none";
-  	document.getElementById("conference").style.display = "block";
+    document.getElementById("conference").style.display = "block";
     document.getElementById("journal").style.display = "none";
     document.getElementById("report").style.display = "none";
     document.getElementById("book").style.display = "none";
