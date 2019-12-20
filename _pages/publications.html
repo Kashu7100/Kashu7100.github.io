@@ -17,29 +17,67 @@ author_profile: true
   </select>
 </p>
 
-<p id="field">
+<div id="conference">
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% if post.type == 'conference paper' || post.type == 'Conference paper' %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
-</p>
+</div>
+<div id="journal">
+  {% for post in site.publications reversed %}
+    {% if post.type == 'journal paper' || post.type == 'Journal paper' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+<div id="report">
+  {% for post in site.publications reversed %}
+    {% if post.type == 'report' || post.type == 'Report' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+<div id="book">
+  {% for post in site.publications reversed %}
+    {% if post.type == 'book' || post.type == 'Book' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <script>
 function select_func() {
   var x = document.getElementById("pub_type").value;
   if(x == ".pubtype-0"){
-  	document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% include archive-single.html %}{% endfor %}";
+  	document.getElementById("conference").style.display = "block";
+    document.getElementById("journal").style.display = "block";
+    document.getElementById("report").style.display = "block";
+    document.getElementById("book").style.display = "block";
   }
   if(x == ".pubtype-1"){
-  	document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'conference paper' || post.type == 'Conference paper' %}{% include archive-single.html %}{% endif %}{% endfor %}";
+  	document.getElementById("conference").style.display = "block";
+    document.getElementById("journal").style.display = "none";
+    document.getElementById("report").style.display = "none";
+    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-2"){
-    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'journal paper' || post.type == 'Journal paper' %}{% include archive-single.html %}{% endif %}{% endfor %}";
+    document.getElementById("conference").style.display = "none";
+    document.getElementById("journal").style.display = "block";
+    document.getElementById("report").style.display = "none";
+    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-3"){
-    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'report' || post.type == 'Report' %}{% include archive-single.html %}{% endif %}{% endfor %}";
+    document.getElementById("conference").style.display = "none";
+    document.getElementById("journal").style.display = "none";
+    document.getElementById("report").style.display = "block";
+    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-4"){
-    document.getElementById("field").innerHTML = "{% for post in site.publications reversed %}{% if post.type == 'book' || post.type == 'Book' %}{% include archive-single.html %}{% endif %}{% endfor %}";
+    document.getElementById("conference").style.display = "none";
+    document.getElementById("journal").style.display = "none";
+    document.getElementById("report").style.display = "none";
+    document.getElementById("book").style.display = "block";
   }
 }
 </script>
