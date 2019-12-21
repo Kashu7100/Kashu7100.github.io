@@ -42,18 +42,24 @@ location: "Fayetteville, AR"
 ## Lecture Information
 <b>Text Book:</b> Jong, I. C., Engineering Mechanics: Statics, Second Edition, 2013, Great River Learning, Debuque, IA. 
 
+### Grades
+9 collections of homework (each worth 5 points), 6 quizzes (each worth 10 points), 3 tests (each worth 100 points), n pop quizzes (each worth 5 pts), and a final exam (worth 100points). The total score you can possibly earn in this course may, therefore, be 505 + 5n points.
+
 ### Drill Sessions
 <b>Time:</b> 6:30-8:30, Tuesdays<br>
 <b>Location:</b> BELL 2267
 
 ### Lecture Topics
-- <b>[**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20</b><br> 
+- <b>[**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20 (Ch.1 ~ Ch.3)</b><br> 
+
 <b>Summary:</b> Fundamental concepts/laws, addition and resolution of forces, equilibrium of particles, action to rotate a body, and moments with vector algebra
-- <b>[**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30</b><br> 
+- <b>[**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30 (Ch.4 ~ Ch.6)</b><br> 
+
 <b>Summary:</b> Equivalent and equipollent system, rigid-body equilibrium in a plane/space, POM, centroids and centers of gravity, areas/volumes, distributed loads, area moments of inertia, PAT, and trusses  
-- <b>[**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4</b><br> 
+- <b>[**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4 (Ch.6 ~ Ch.8)</b><br> 
+
 <b>Summary:</b> Frames and machines, friction between rigid bodies, belt friction, work, displacement center, and virtual work
-- <b>Final Exam - 12/11</b>
+- <b>Final Exam - 12/11 (Ch.1 ~ Ch.8)</b>
 
 ## Important Topics
 Three major steps for [virtual work method](https://icjong.hosted.uark.edu/docu/05Portland.ppt.pdf):
