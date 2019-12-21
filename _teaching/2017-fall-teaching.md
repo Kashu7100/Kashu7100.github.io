@@ -21,18 +21,18 @@ location: "Fayetteville, AR"
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
   <tbody>
     <tr>
-      <td style="padding:20px;vertical-align:middle">
+      <td style="vertical-align:middle">
         <p align="center"><img src="/images/icj070128s.jpg" width="120"/></p>
       </td>
-      <td style="padding:20px;vertical-align:middle">
+      <td style="vertical-align:middle">
         <p align="center"><img src="/images/prof.jpg" width="120"/></p>
       </td>
     </tr>
     <tr>
-      <td style="padding:20px;horizontal-align:middle">
+      <td style="horizontal-align:middle">
         <center><p>Instructor: </p><a href="https://icjong.hosted.uark.edu/">Ing-Chang Jong</a></center>
       </td>
-      <td style="padding:20px;horizontal-align:middle">
+      <td style="horizontal-align:middle">
         <center><p>TA: </p><a>Kashu Yamazaki</a></center>
       </td>
     </tr>
