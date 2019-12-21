@@ -30,18 +30,10 @@ location: "Fayetteville, AR"
     </tr>
     <tr>
       <td style="padding:20px;horizontal-align:middle">
-        <center><a href="https://icjong.hosted.uark.edu/"> Ing-Chang Jong </a></center>
+        <center><p>Instructor: </p><a href="https://icjong.hosted.uark.edu/">Ing-Chang Jong</a></center>
       </td>
       <td style="padding:20px;horizontal-align:middle">
-        <center><a> Kashu Yamazaki </a></center>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:20px;horizontal-align:middle">
-        <center><p> Instructor </p></center>
-      </td>
-      <td style="padding:20px;horizontal-align:middle">
-        <center><p> TA </p></center>
+        <center><p>TA: </p><a>Kashu Yamazaki</a></center>
       </td>
     </tr>
   </tbody>
@@ -54,13 +46,13 @@ location: "Fayetteville, AR"
 <b>Location:</b> BELL 2267
 
 ### Lecture Topics
-### [**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20
+- <b>[**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20</b> 
 <b>Summary:</b> Fundamental concepts/laws, addition and resolution of forces, equilibrium of particles, action to rotate a body, and moments with vector algebra
-### [**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30
+- <b>[**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30</b>
 <b>Summary:</b> Equivalent and equipollent system, rigid-body equilibrium in a plane/space, POM, centroids and centers of gravity, areas/volumes, distributed loads, area moments of inertia, PAT, and trusses  
-### [**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4
+- <b>[**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4</b>
 <b>Summary:</b> Frames and machines, friction between rigid bodies, belt friction, work, displacement center, and virtual work
-### Final Exam - 12/11
+- <b>Final Exam - 12/11</b>
 
 ## Important Topics
 Three major steps for [virtual work method](https://icjong.hosted.uark.edu/docu/05Portland.ppt.pdf):
