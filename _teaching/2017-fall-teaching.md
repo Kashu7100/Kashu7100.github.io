@@ -40,17 +40,18 @@ location: "Fayetteville, AR"
 </table>
   
 ## Lecture Information
-*Text Book*: Jong, I. C., Engineering Mechanics: Statics, Second Edition, 2013, Great River Learning, Debuque, IA. 
+<b>Text Book:</b> Jong, I. C., Engineering Mechanics: Statics, Second Edition, 2013, Great River Learning, Debuque, IA. 
+
 ### Drill Sessions
 <b>Time:</b> 6:30-8:30, Tuesdays<br>
 <b>Location:</b> BELL 2267
 
 ### Lecture Topics
-- <b>[**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20</b> 
+- <b>[**Test1**](https://icjong.hosted.uark.edu/2003/2003t1.063w.pdf) - 9/20</b><br> 
 <b>Summary:</b> Fundamental concepts/laws, addition and resolution of forces, equilibrium of particles, action to rotate a body, and moments with vector algebra
-- <b>[**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30</b>
+- <b>[**Test2**](https://icjong.hosted.uark.edu/2003/2003t2w.073.pdf) - 10/30</b><br> 
 <b>Summary:</b> Equivalent and equipollent system, rigid-body equilibrium in a plane/space, POM, centroids and centers of gravity, areas/volumes, distributed loads, area moments of inertia, PAT, and trusses  
-- <b>[**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4</b>
+- <b>[**Test3**](https://icjong.hosted.uark.edu/2003/2003t3.073w.pdf) - 12/4</b><br> 
 <b>Summary:</b> Frames and machines, friction between rigid bodies, belt friction, work, displacement center, and virtual work
 - <b>Final Exam - 12/11</b>
 
