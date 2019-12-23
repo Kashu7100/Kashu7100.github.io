@@ -62,8 +62,27 @@ location: "Fayetteville, AR"
 - <b>Final Exam - 12/11 (Ch.1 ~ Ch.8)</b>
 
 ## Important Topics
+### Principle of Moments (POM)
+1. Resultant = sum of components
+2. Moment of resultant = sum of moments of components
+
+### Parallel-Axis Theorem (PAT)
+The moment of inertia of a body about a given axis is related to the moment of inertia about a centroidal axis parallel to the given axis as follows:
+
+<center><a href="https://www.codecogs.com/eqnedit.php?latex=I=\bar{I}&plus;md^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?I=\bar{I}&plus;md^2" title="I=\bar{I}+md^2" /></a></center>
+
+### Work
+**Work** is energy in transition to a system due to *force or moment* acting on the system through a displacement. Note that **Heat** is energy in transition to a system due to *temperature difference* between the system and its surroundings. Work differs from energy in that workis nota property possessed by a system, while energy (e.g., kinetic energy or potential energy) is. Work is a boundary phenomenon.
+
+### Virtual Work Method
+
 Three major steps for [virtual work method](https://icjong.hosted.uark.edu/docu/05Portland.ppt.pdf):
 1. Draw the free-body (FBD) diagram. 
-2. Draw the virtual-displacement diagram (VDD) with a strategy.
-> strategy: give the free body a compatible virtual displacementin such a way that the onespecified unknown, but no other unknowns, will be involved in the virtual work done
+2. Draw the virtual-displacement diagram (VDD) with a strategy, which gives the free body a compatible virtual displacement in such a way that the one specified unknown, but no other unknowns, will be involved in the virtual work done.
 3. Set the total virtual work done to zero in order to solve for the unknown.
+
+## Reference
+- Jong, I. C., "Kindling Students' Interest in Virtual Work Method: Advantages and Challenges," Proceedings of the 2004 ASEE Midwest Section Conference, Pittsburg, Kansas, September 29 - October 1, 2004.
+- Jong, I. C., "Teaching Students Work and Virtual Work Method in Statics: A Guiding Strategy with Illustrative Examples," Proceedings of the 2005 ASEE Annual Conference & Exposition, Portland, Oregan, June 12-15, 2005.
+- Jong, I. C., "From Conventional Method to Virtual Work Method in Statics: Three Major Steps and One Guiding Strategy," Proceedings of the 2005 ASEE/AaeE 4th Global Colloquium, Star City, Sydney, Australia, September 26-29, 2005.
+- Jong, I. C., "Learning the Virtual Work Method in Statics: What Is a Compatible Virtual Displacement?," Proceedings of the 2006 ASEE Annual Conference & Exposition, Chicago, Illinois, June 18-21, 2006. (Also presented at the 5th ASEE Global Colloquium on Engineering Education, Rio de Janeiro, Brazil, October 8-12, 2006.)
