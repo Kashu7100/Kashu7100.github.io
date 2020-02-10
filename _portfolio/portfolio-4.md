@@ -2,11 +2,12 @@
 title: "Prosthetic Bionic Hand"
 excerpt: "Bio-inspired design of robotic hand"
 image: "/images/hand2.PNG" 
-github: None"
+github: "None"
 docs: "None"
 pdf: "None"
 collection: portfolio
 ---
+## Design
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
