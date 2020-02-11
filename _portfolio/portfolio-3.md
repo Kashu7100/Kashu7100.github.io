@@ -1,7 +1,7 @@
 ---
 title: "OpenDog"
 excerpt: "A quadruped robot dog with bilateral symmetry"
-image: "/images/opendog2.PNG" 
+image: "/images/opendog_logo.jpg" 
 github: "None"
 docs: "None"
 pdf: "None"
