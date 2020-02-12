@@ -52,12 +52,12 @@
             </td>
         </tr></tbody>
       </table>
-    {% elsif post.collection == 'teaching' %}
+    {% elsif post.collection == 'teaching' || post.collection == 'research' %}
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
             <td style="padding:10px;width:25%;vertical-align:middle">
               <p align="center">
-                <img src="{{post.image}}" height="160"/>
+                <img src="{{post.image}}" height="100"/>
               </p>
             </td>
             <td style="padding:10px;width:75%">
@@ -70,13 +70,6 @@
             </td>
         </tr></tbody>
       </table>
-<!--     {% elsif post.collection == 'teaching' %}
-      {% if post.link %}
-        <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
-      {% else %}
-        <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
-      {% endif %}
-      <br><p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
