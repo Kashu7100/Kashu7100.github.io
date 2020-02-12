@@ -55,12 +55,12 @@
     {% elsif post.collection == 'teaching' %}
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
-            <td style="padding:10px;width:25%;vertical-align:middle">
+            <td style="padding:5px;width:25%;horizontal-align:middle">
               <p align="center">
                 <img src="{{post.image}}" height="75"/>
               </p>
             </td>
-            <td style="padding:10px;width:75%">
+            <td style="padding:5px;width:75%">
               {% if post.link %}
                 <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
               {% else %}
@@ -73,12 +73,12 @@
     {% elsif post.collection == 'research' %}
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
-            <td style="padding:10px;width:25%;vertical-align:middle">
+            <td style="padding:5px;width:25%;horizontal-align:middle">
               <p align="center">
                 <img src="{{post.image}}" height="75"/>
               </p>
             </td>
-            <td style="padding:10px;width:75%">
+            <td style="padding:5px;width:75%">
               {% if post.link %}
                 <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
               {% else %}
