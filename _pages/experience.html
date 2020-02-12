@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2 class="archive__item-title" itemprop="headline"> Research Assistant </h2>
+<hr>
+{% for post in site.research reversed %}
+  {% if post.type == 'Research Assistant' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="archive__item-title" itemprop="headline"> Teaching Assistant </h2>
+<hr>
+{% for post in site.teaching reversed %}
+  {% if post.type == 'Teaching Assistant' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
