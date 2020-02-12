@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2 class="archive__item-title" itemprop="headline"> Research Assistant </h2>
+<hr>
+{% for post in site.research reversed %}
+  {% if post.type == 'Research Assistant' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
