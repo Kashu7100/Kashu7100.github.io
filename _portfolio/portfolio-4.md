@@ -1,7 +1,7 @@
 ---
 title: "Prosthetic Bionic Hand"
 excerpt: "Bio-inspired design of robotic hand"
-image: "/images/hand2.PNG" 
+image: "/images/ihuman.png" 
 github: "None"
 docs: "None"
 pdf: "None"
