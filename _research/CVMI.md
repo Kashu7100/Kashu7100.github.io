@@ -10,5 +10,4 @@ date: 2019-08-01
 location: "Fayetteville, AR"
 ---
 
-## Research Overview
-Tumor segmentation of volumetric data multimodal magnetic resonance imaging (MRI)  
+## Comming soon...
