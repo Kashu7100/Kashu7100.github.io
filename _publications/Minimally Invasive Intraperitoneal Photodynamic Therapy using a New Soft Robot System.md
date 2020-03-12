@@ -3,10 +3,10 @@ title: "Minimally Invasive Intraperitoneal Photodynamic Therapy using a New Soft
 authors: "Yang Liu, <b>Kashu Yamazaki</b>, Dawei Zhang, Yucheng Li, Meng Su, Qing Xie, Yue Chen, and Mingfeng Bai."
 collection: publications
 permalink: /publication/2019-09-paper-2
-type: "journal paper"
-publication: "SPIE"
-year: "2019"
-date: 2019-09-06
+type: "conference paper"
+publication: "SPIE 11220, Optical Methods for Tumor Treatment and Detection: Mechanisms and Techniques in Photodynamic Therapy XXIX"
+year: "2020"
+date: 2020-02-28
 ---
  Yang Liu, <b>Kashu Yamazaki</b>, Dawei Zhang, Yucheng Li, Meng Su, Qing Xie, Yue Chen, and Mingfeng Bai "Minimally invasive intraperitoneal photodynamic therapy using a new soft robot system", Proc. SPIE 11220, Optical Methods for Tumor Treatment and Detection: Mechanisms and Techniques in Photodynamic Therapy XXIX, 112200D (28 February 2020); https://doi.org/10.1117/12.2551313 
 
