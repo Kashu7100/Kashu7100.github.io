@@ -12,8 +12,8 @@ author_profile: true
     <option value=".pubtype-0">All</option>
     <option value=".pubtype-1">Conference paper</option>
     <option value=".pubtype-2">Journal paper</option>
-    <option value=".pubtype-3">Report</option>
-    <option value=".pubtype-4">Book section</option>
+    <option value=".pubtype-3">Preprint</option>
+    <option value=".pubtype-4">Report</option>
   </select>
 </p>
 
@@ -36,16 +36,16 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-<div id="report">
+<div id="preprint">
   {% for post in site.publications reversed %}
-    {% if post.type == 'report' || post.type == 'Report' %}
+    {% if post.type == 'preprint' || post.type == 'Preprint' %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </div>
-<div id="book">
+<div id="report">
   {% for post in site.publications reversed %}
-    {% if post.type == 'book' || post.type == 'Book' %}
+    {% if post.type == 'report' || post.type == 'Report' %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
@@ -56,8 +56,8 @@ function init(){
   document.getElementById("all").style.display = "block";
   document.getElementById("conference").style.display = "none";
   document.getElementById("journal").style.display = "none";
+  document.getElementById("preprint").style.display = "none";
   document.getElementById("report").style.display = "none";
-  document.getElementById("book").style.display = "none";
 }
 window.onload = init;
   
@@ -67,36 +67,36 @@ function select_func() {
     document.getElementById("all").style.display = "block";
     document.getElementById("conference").style.display = "none";
     document.getElementById("journal").style.display = "none";
+    document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
-    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-1"){
     document.getElementById("all").style.display = "none";
     document.getElementById("conference").style.display = "block";
     document.getElementById("journal").style.display = "none";
+    document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
-    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-2"){
     document.getElementById("all").style.display = "none";
     document.getElementById("conference").style.display = "none";
     document.getElementById("journal").style.display = "block";
+    document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
-    document.getElementById("book").style.display = "none";
   }
   if(x == ".pubtype-3"){
     document.getElementById("all").style.display = "none";
     document.getElementById("conference").style.display = "none";
     document.getElementById("journal").style.display = "none";
-    document.getElementById("report").style.display = "block";
-    document.getElementById("book").style.display = "none";
+    document.getElementById("preprint").style.display = "block";
+    document.getElementById("report").style.display = "none";
   }
   if(x == ".pubtype-4"){
     document.getElementById("all").style.display = "none";
     document.getElementById("conference").style.display = "none";
     document.getElementById("journal").style.display = "none";
-    document.getElementById("report").style.display = "none";
-    document.getElementById("book").style.display = "block";
+    document.getElementById("preprint").style.display = "none";
+    document.getElementById("report").style.display = "block";
   }
 }
 </script>
