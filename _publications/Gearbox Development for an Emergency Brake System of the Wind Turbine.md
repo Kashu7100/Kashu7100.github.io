@@ -8,7 +8,7 @@ publication: "IOP Conference Series: Earth and Environmental Science, Volume 459
 year: "2020"
 date: 2020-04-01
 ---
- E. Sirotkin, <b>K. Yamazaki</b>, and A. Miroshnichenko "Gearbox Development for an Emergency Brake System of the Wind Turbine", IOP Conference Series: Earth and Environmental Science, Volume 459, Chapter 1.; 
+ E. Sirotkin, <b>K. Yamazaki</b>, and A. Miroshnichenko "Gearbox Development for an Emergency Brake System of the Wind Turbine", IOP Conference Series: Earth and Environmental Science, Volume 459, Chapter 1. 
 
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://iopscience.iop.org/article/10.1088/1755-1315/459/2/022010'">link</button>
 
