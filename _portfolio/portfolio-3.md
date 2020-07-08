@@ -1,7 +1,7 @@
 ---
-title: "OpenDog"
-excerpt: "A quadruped robot dog with bilateral symmetry"
-image: "/images/opendog_logo.jpg" 
+title: "Lailaps"
+excerpt: "A quadruped robot with bilateral symmetry"
+image: "/images/lailaps.PNG" 
 github: "None"
 docs: "None"
 pdf: "None"
@@ -9,7 +9,3 @@ collection: portfolio
 ---
 
 ## Coming soon...
-
-<p align="center">
-  <img src="/images/opendog2.PNG"  width="500"/>
-</p>
