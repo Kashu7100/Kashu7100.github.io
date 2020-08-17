@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 ## Lailaps
-<p align="center"><img src="/images/lailaps.PNG" width="450"/></p>
-
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
