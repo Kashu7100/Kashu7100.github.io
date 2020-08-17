@@ -12,7 +12,32 @@ A quadruped robot with bilateral symmetry controlled by on-board online leaning 
 
 
 ## [Qualia](https://github.com/Kashu7100/Qualia2.0)
-<p align="center"><img src="/images/lorenz_compare.png" height="170"/><img src="/images/cartpole_dqn.gif" height="180"/><img src="/images/mountaincar_duelingnet.gif" height="180"/><img src="/images/assets/baseball.gif" height="200"/><img src="/images/lunar_lander_cont_td3.gif" height="180"/><img src="/images/bipedal_walker_td3.gif" height="180"/></p>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/lorenz_compare.png" height="170"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/cartpole_dqn.gif" height="180"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/mountaincar_duelingnet.gif" height="180"/></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/assets/baseball.gif" height="200"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/lunar_lander_cont_td3.gif" height="180"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/bipedal_walker_td3.gif" height="180"/></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://github.com/Kashu7100/Qualia2.0'">github</button><button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://kashu7100.github.io/Qualia2.0/index.html'">docs</button>
 
@@ -29,11 +54,15 @@ Artificial Life (ALife) simulator to explore the emergence behaviour in a life-l
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
-      <td>
+      <td style="padding:10px;width:20%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/hand.PNG" height="300"/></p>
       </td>
-      <td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/hand2.PNG" height="300"/></p>
+      </td>
+      <td style="padding:10px;width:20%;vertical-align:middle">
       </td>
     </tr>
   </tbody>
