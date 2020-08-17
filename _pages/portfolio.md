@@ -33,7 +33,7 @@ A quadruped robot with bilateral symmetry controlled by on-board online leaning 
       <td style="padding:10px;width:5%;vertical-align:middle">
       </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
-        <p align="center"><img src="/images/assets/baseball.gif" height="200"/></p>
+        <p align="center"><img src="/images/baseball.gif" height="200"/></p>
       </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/lunar_lander_cont_td3.gif" height="180"/></p>
