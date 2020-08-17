@@ -5,12 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<!---{% include base_path %}-->
-
-<!---{% for post in site.portfolio %}-->
-  <!---{% include archive-single.html %}-->
-<!---{% endfor %}-->
-
 ## Lailaps
 <p align="center"><img src="/images/lailaps.PNG" width="450"/></p>
 
@@ -32,6 +26,17 @@ Qualia is a deep learning framework deeply integrated with automatic differentia
 Artificial Life (ALife) simulator to explore the emergence behaviour in a life-like system. This is my pure hobby seeking "What is life?" through the implementation of life-as-it-could-be (including but not limited to life-as-we-know).
 
 ## Prosthetic Bionic Hand
-<p align="center"><img src="/images/hand.PNG" height="300"/><img src="/images/hand2.PNG" height="300"/></p>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td>
+        <p align="center"><img src="/images/hand.PNG" height="300"/></p>
+      </td>
+      <td>
+        <p align="center"><img src="/images/hand2.PNG" height="300"/></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 This is the mchanical design of a tendon-driven bio-inspired robotic hand.  
