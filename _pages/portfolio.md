@@ -15,6 +15,8 @@ A quadruped robot with bilateral symmetry controlled by on-board online leaning 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
     <tr>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/lorenz_compare.png" height="170"/></p>
       </td>
@@ -24,8 +26,12 @@ A quadruped robot with bilateral symmetry controlled by on-board online leaning 
       <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/mountaincar_duelingnet.gif" height="180"/></p>
       </td>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
     </tr>
     <tr>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/assets/baseball.gif" height="200"/></p>
       </td>
@@ -34,6 +40,8 @@ A quadruped robot with bilateral symmetry controlled by on-board online leaning 
       </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
         <p align="center"><img src="/images/bipedal_walker_td3.gif" height="180"/></p>
+      </td>
+      <td style="padding:10px;width:5%;vertical-align:middle">
       </td>
     </tr>
   </tbody>
@@ -46,7 +54,50 @@ David J. Chalmers, an Australian philosopher and cognitive scientist, onece argu
 Qualia is a deep learning framework deeply integrated with automatic differentiation and dynamic graphing with CUDA acceleration. Thanks to the define-by-run API, the code written with Qualia enjoys high modularity.
 
 ## [Recreation of Nature](https://github.com/Kashu7100/Recreation-of-Nature)
-<p align="center"><img src="/images/self_replacing_spots.png" height="140"/><img src="/images/stable_spots.png" height="140"/><img src="/images/unstable_spots.png" height="140"/><img src="/images/labyrinthine_pattern.png" height="140"/><img src="/images/worm_like_pattern.png" height="140"/><img src="/images/fk_map.png" height="140"/><img src="/images/boids_swarm_formation.gif" height="185"/><img src="/images/boids_predator_prey.gif" height="185"/><img src="/images/pps.gif" height="185"/></p>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/self_replacing_spots.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/stable_spots.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/unstable_spots.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/labyrinthine_pattern.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/worm_like_pattern.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:15%;vertical-align:middle">
+        <p align="center"><img src="/images/fk_map.png" height="140"/></p>
+      </td>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/boids_swarm_formation.gif" height="185"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/boids_predator_prey.gif" height="185"/></p>
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/pps.gif" height="185"/></p>
+      </td>
+      <td style="padding:10px;width:5%;vertical-align:middle">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 Artificial Life (ALife) simulator to explore the emergence behaviour in a life-like system. This is my pure hobby seeking "What is life?" through the implementation of life-as-it-could-be (including but not limited to life-as-we-know).
 
