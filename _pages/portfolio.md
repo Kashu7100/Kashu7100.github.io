@@ -150,3 +150,20 @@ Artificial Life (ALife) simulator to explore the emergence behaviour in a life-l
 </table>
 
 This is the mchanical design of a tendon-driven bio-inspired robotic hand.  
+
+## [PyChess](https://github.com/Kashu7100/PyChess)
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/chess.PNG" height="300"/></p>
+      </td>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+PyChess is a Python3 chess library with pretrained AlphaZero model.
