@@ -8,8 +8,38 @@ author_profile: true
 ## Lailaps
 <p align="center"><img src="/images/lailaps.PNG" width="450"/></p>
 
-A quadruped robot with bilateral symmetry controlled by on-board online leaning network. a low-cost platform for quadruped robot development.
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/lailaps_bullet.gif" height="300"/></p>
+      </td>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+A quadruped robot with bilateral symmetry controlled by on-board online leaning network. This will be a low-cost option for quadruped robot development.
+
+## Grasp Gym 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/panda_bullet.gif" height="300"/></p>
+      </td>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Pybullet based OpenAI Gym environment for controlling robotic arm with reinforcement learning 
 
 ## [Qualia](https://github.com/Kashu7100/Qualia2.0)
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
