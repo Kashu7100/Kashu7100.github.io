@@ -30,10 +30,10 @@ Artificial Life (ALife) simulator to explore the emergence behaviour in a life-l
   <tbody>
     <tr>
       <td>
-        <p align="center"><img src="/images/hand.PNG" height="300"/></p>
+        <p align="center"><img src="/images/hand.PNG" height="100"/></p>
       </td>
       <td>
-        <p align="center"><img src="/images/hand2.PNG" height="300"/></p>
+        <p align="center"><img src="/images/hand2.PNG" height="100"/></p>
       </td>
     </tr>
   </tbody>
