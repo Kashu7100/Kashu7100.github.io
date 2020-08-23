@@ -134,6 +134,23 @@ Qualia is a deep learning framework deeply integrated with automatic differentia
 
 Artificial Life (ALife) simulator to explore the emergence behaviour in a life-like system. This is my pure hobby seeking "What is life?" through the implementation of life-as-it-could-be (including but not limited to life-as-we-know).
 
+## [Trading Panel](https://github.com/Kashu7100/TradingPanel)
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+      <td style="padding:10px;width:30%;vertical-align:middle">
+        <p align="center"><img src="/images/trading_panel.png" height="300"/></p>
+      </td>
+      <td style="padding:10px;width:35%;vertical-align:middle">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+MT5 trading panel 
+
 ## Prosthetic Bionic Hand
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
