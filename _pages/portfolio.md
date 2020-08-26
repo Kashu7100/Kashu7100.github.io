@@ -149,8 +149,8 @@ Artificial Life (ALife) simulator to explore the emergence behaviour in a life-l
 </table>
 
 
-MT5 trading panel 
-
+MT5 trading panel for Forex, cfd trading on stocks, stock indices, oil and gold. It supports trailing stop for automatic closing of open positions. 
+ 
 ## Prosthetic Bionic Hand
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;margin-left:auto;">
   <tbody>
