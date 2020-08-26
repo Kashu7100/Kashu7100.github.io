@@ -51,7 +51,7 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-<div id="report">
+<div id="under review">
   {% for post in site.publications reversed %}
     {% if post.type == 'under review' || post.type == 'Under Review' %}
       {% include archive-single.html %}
