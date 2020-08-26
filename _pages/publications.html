@@ -14,6 +14,7 @@ author_profile: true
     <option value=".pubtype-2">Journal paper</option>
     <option value=".pubtype-3">Preprint</option>
     <option value=".pubtype-4">Report</option>
+    <option value=".pubtype-5">Under Review</option>
   </select>
 </p>
 
@@ -50,6 +51,13 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
+<div id="report">
+  {% for post in site.publications reversed %}
+    {% if post.type == 'under review' || post.type == 'Under Review' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <script>
 function init(){
@@ -58,6 +66,7 @@ function init(){
   document.getElementById("journal").style.display = "none";
   document.getElementById("preprint").style.display = "none";
   document.getElementById("report").style.display = "none";
+  document.getElementById("under review").style.display = "none";
 }
 window.onload = init;
   
@@ -69,6 +78,7 @@ function select_func() {
     document.getElementById("journal").style.display = "none";
     document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
+    document.getElementById("under review").style.display = "none";
   }
   if(x == ".pubtype-1"){
     document.getElementById("all").style.display = "none";
@@ -76,6 +86,7 @@ function select_func() {
     document.getElementById("journal").style.display = "none";
     document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
+    document.getElementById("under review").style.display = "none";
   }
   if(x == ".pubtype-2"){
     document.getElementById("all").style.display = "none";
@@ -83,6 +94,7 @@ function select_func() {
     document.getElementById("journal").style.display = "block";
     document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "none";
+    document.getElementById("under review").style.display = "none";
   }
   if(x == ".pubtype-3"){
     document.getElementById("all").style.display = "none";
@@ -90,6 +102,7 @@ function select_func() {
     document.getElementById("journal").style.display = "none";
     document.getElementById("preprint").style.display = "block";
     document.getElementById("report").style.display = "none";
+    document.getElementById("under review").style.display = "none";
   }
   if(x == ".pubtype-4"){
     document.getElementById("all").style.display = "none";
@@ -97,6 +110,15 @@ function select_func() {
     document.getElementById("journal").style.display = "none";
     document.getElementById("preprint").style.display = "none";
     document.getElementById("report").style.display = "block";
+    document.getElementById("under review").style.display = "none";
+  }
+  if(x == ".pubtype-5"){
+    document.getElementById("all").style.display = "none";
+    document.getElementById("conference").style.display = "none";
+    document.getElementById("journal").style.display = "none";
+    document.getElementById("preprint").style.display = "none";
+    document.getElementById("report").style.display = "none";
+    document.getElementById("under review").style.display = "block";
   }
 }
 </script>
