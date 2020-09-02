@@ -1,6 +1,6 @@
 ---
 title: "Minimally Invasive Intraperitoneal Photodynamic Therapy using a New Soft Robot System"
-authors: "Yang Liu, <b>Kashu Yamazaki</b>, Dawei Zhang, Yucheng Li, Meng Su, Qing Xie, Yue Chen, and Mingfeng Bai."
+authors: "Y. Liu, <b>K. Yamazaki</b>, D. Zhang, Y. Li, M. Su, Q. Xie, Y. Chen, and M. Bai."
 collection: publications
 permalink: /publication/2019-09-paper-2
 type: "conference paper"
