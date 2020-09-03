@@ -4,7 +4,7 @@ authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, J. Guo, M. Bai, and Y.Chen"
 collection: publications
 permalink: /publication/2020-paper-3
 type: "under review"
-publication: "(under review)"
+publication: "IEEE/ASME Transactions on Mechatronics (under review)"
 year: "2020"
 date: 2020-08-01
 ---
