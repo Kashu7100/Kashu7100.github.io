@@ -15,7 +15,7 @@ author_profile: true
         <p align="center"><img src="/images/lailaps_model.png" height="300"/></p>
       </td>
       <td style="padding:10px;width:30%;vertical-align:middle">
-        <p align="center"><img src="/images/lailaps_bullet.gif" height="300"/></p>
+        <p align="center"><img src="/images/lailaps_walk.gif" height="300"/></p>
       </td>
       <td style="padding:10px;width:20%;vertical-align:middle">
       </td>
