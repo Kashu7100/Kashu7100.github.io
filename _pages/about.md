@@ -18,6 +18,7 @@ About me
 
 Recent News
 ======
+- December 18, 2020. Graduated the University of Arkansas with Summa Cum Laude
 - October 10, 2020. Two papers are accepted to ICPR!
 - September 6, 2019. A paper is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short)
 - November 30, 2017. Initiated as member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
