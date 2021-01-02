@@ -5,6 +5,6 @@ collection: publications
 permalink: /publication/2021-paper-1
 type: "journal paper"
 publication: "IEEE/ASME Transactions on Mechatronics (TMECH) (accepted)"
-year: "2020"
+year: "2021"
 date: 2021-01-01
 ---
