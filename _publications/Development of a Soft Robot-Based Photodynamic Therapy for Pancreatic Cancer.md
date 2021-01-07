@@ -1,6 +1,6 @@
 ---
 title: "Development of a Soft Robot-Based Photodynamic Therapy for Pancreatic Cancer"
-authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, J. Guo, M. Bai, and Y.Chen"
+authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, M. Bai, and Y.Chen"
 collection: publications
 permalink: /publication/2021-paper-1
 type: "journal paper"
