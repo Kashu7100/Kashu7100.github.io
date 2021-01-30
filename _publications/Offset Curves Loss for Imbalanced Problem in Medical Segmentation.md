@@ -4,7 +4,7 @@ authors: "N. Le, T. Le, <b>K. Yamazaki</b>, B. Toan, K. Luu "
 collection: publications
 permalink: /publication/2020-paper-4
 type: "conference paper"
-publication: "International Conference on Pattern Recognition (ICPR) (early Accepted)"
+publication: "International Conference on Pattern Recognition (ICPR)"
 year: "2021"
 date: 2020-08-01
 ---
