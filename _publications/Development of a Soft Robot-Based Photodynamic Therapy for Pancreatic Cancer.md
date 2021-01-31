@@ -4,7 +4,7 @@ authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, M. Bai, and Y.Chen"
 collection: publications
 permalink: /publication/2021-paper-1
 type: "journal paper"
-publication: "IEEE/ASME Transactions on Mechatronics (TMECH) (accepted)"
+publication: "IEEE/ASME Transactions on Mechatronics (TMECH)"
 year: "2021"
 date: 2021-01-01
 ---
