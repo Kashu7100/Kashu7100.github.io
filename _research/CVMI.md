@@ -1,8 +1,8 @@
 ---
-title: "Computer Vision and Machine Intelligence Lab"
+title: "Artificial Intelligence and Computer Vision Lab"
 collection: research
 type: "Research Assistant"
-topic: "MRI, Image Segmentation"
+topic: "robotics, computer vision"
 permalink: /research/CVMI
 image: "/images/uark_csce.png" 
 venue: "University of Arkansas, Computer Science and Computer Engineering"
