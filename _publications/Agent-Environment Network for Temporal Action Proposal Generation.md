@@ -2,11 +2,11 @@
 title: "Agent-Environment Network for Temporal Action Proposal Generation"
 authors: "V. Vo-Ho, N. Le, <b>K. Yamazaki</b>, A. Sugimoto, and M. Tran"
 collection: publications
-permalink: /publication/2021-paper-4
+permalink: /publication/agent_environment_network_for_temporal_action_proposal_generation
 type: "conference paper"
 publication: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 year: "2021"
-date: 2021-01-29
+date: 2021-05-13
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://ieeexplore.ieee.org/document/9415101'">IEEE Xplore</button>
 
