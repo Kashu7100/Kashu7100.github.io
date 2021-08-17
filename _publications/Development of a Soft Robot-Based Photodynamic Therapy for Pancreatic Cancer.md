@@ -2,11 +2,11 @@
 title: "Development of a Soft Robot-Based Photodynamic Therapy for Pancreatic Cancer"
 authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, M. Bai, and Y.Chen"
 collection: publications
-permalink: /publication/2021-paper-1
+permalink: /publication/development_of_a_soft_robot_based_photodynamic_therapy_for_pancreatic_cancer
 type: "journal paper"
 publication: "IEEE/ASME Transactions on Mechatronics (TMECH)"
 year: "2021"
-date: 2021-01-01
+date: 2021-01-05
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://ieeexplore.ieee.org/document/9314043'">IEEE Xplore</button>
 
