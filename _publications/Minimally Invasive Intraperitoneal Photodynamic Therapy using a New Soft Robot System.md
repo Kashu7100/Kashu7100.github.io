@@ -2,7 +2,7 @@
 title: "Minimally Invasive Intraperitoneal Photodynamic Therapy using a New Soft Robot System"
 authors: "Y. Liu, <b>K. Yamazaki</b>, D. Zhang, Y. Li, M. Su, Q. Xie, Y. Chen, and M. Bai."
 collection: publications
-permalink: /publication/2019-09-paper-2
+permalink: /publication/minimally_invasive_intraperitoneal_photodynamic_therapy_using_a_new_soft_robot_system
 type: "conference paper"
 publication: "SPIE 11220, Optical Methods for Tumor Treatment and Detection: Mechanisms and Techniques in Photodynamic Therapy XXIX"
 year: "2020"
