@@ -2,11 +2,11 @@
 title: "Offset Curves Loss for Imbalanced Problem in Medical Segmentation"
 authors: "N. Le, T. Le, <b>K. Yamazaki</b>, B. Toan, K. Luu "
 collection: publications
-permalink: /publication/2020-paper-4
+permalink: /publication/offset_curves_loss_for_imbalanced_problem_in_medical_segmentation
 type: "conference paper"
 publication: "International Conference on Pattern Recognition (ICPR)"
-year: "2021"
-date: 2020-08-01
+year: "2020"
+date: 2020-12-04
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://arxiv.org/abs/2012.02463'">arXiv</button>
 
