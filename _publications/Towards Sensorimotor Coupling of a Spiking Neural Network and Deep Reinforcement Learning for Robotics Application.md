@@ -2,11 +2,11 @@
 title: "Towards Sensorimotor Coupling of a Spiking Neural Network and Deep Reinforcement Learning for Robotics Application."
 authors: "<b>K. Yamazaki</b>"
 collection: publications
-permalink: /publication/2020-paper-8
+permalink: /publication/towards_sensorimotor_coupling_of_a_spiking_neural_network_and_deep_reinforcement_learning_for_robotics_application
 type: "thesis"
 publication: "Undergraduate Honors Thesis"
-year: "2021"
-date: 2020-08-01
+year: "2020"
+date: 2020-12-18
 ---
 
 ## Abstract
