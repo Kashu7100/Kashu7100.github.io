@@ -2,11 +2,11 @@
 title: "A Multi-task Contextual Atrous Residual Networkfor Brain Tumor Detection & Segmentation"
 authors: "N. Le, <b>K. Yamazaki</b>, K. Quach, D. Truong, and M. Savvides"
 collection: publications
-permalink: /publication/2020-paper-5
+permalink: /publication/a_multi_task_contextual_atrous_residual_networkfor_brain_tumor_detection_and_segmentation
 type: "conference paper"
 publication: "International Conference on Pattern Recognition (ICPR)"
 year: "2021"
-date: 2020-08-01
+date: 2020-12-03
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://arxiv.org/abs/2012.02073'">arXiv</button>
 
