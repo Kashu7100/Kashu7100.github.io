@@ -2,7 +2,7 @@
 title: "Gearbox Development for an Emergency Brake System of the Wind Turbine"
 authors: "E. Sirotkin, <b>K. Yamazaki</b>, and A. Miroshnichenko."
 collection: publications
-permalink: /publication/2020-04-paper-1
+permalink: /publication/gearbox_development_for_an_emergency_brake_system_of_the_wind_turbine
 type: "conference paper"
 publication: "IOP Conference Series: Earth and Environmental Science, Volume 459, Chapter 1."
 year: "2020"
