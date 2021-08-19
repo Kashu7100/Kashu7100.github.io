@@ -10,9 +10,11 @@ redirect_from:
 
 About me
 ======
-- Research assistant in the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville.
+- <b>Kashu Yamazaki</b> is a research assistant in the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville.
 
-- My research interests focus on deep learning, robotics, and neurorobotics. In particular, I am interested in the human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
+- I received a Bachelor of Science in Mechanical Engineering in 2020 from University of Arkansas, Fayetteville with Summa Cum Laude
+
+- My research interests focus on deep learning and robotics. In particular, I am interested in the human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
 
 - Outside of research, I also have experiences working on both software and hardware for robotics and deep learning related projects.
 
