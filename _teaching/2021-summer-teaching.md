@@ -40,16 +40,16 @@ location: "Fayetteville, AR"
 
 <b>Codes:</b> [applied-machine-learning-intensive](https://github.com/google/applied-machine-learning-intensive)
 
-### Drill Sessions
-<b>Time:</b> 9:45-11:15am and 1:30-3:45pm <br>
-<b>Location:</b> BELL 1108E
-
 ### Grades 
 90-100   : A
 80-89  : B
 70-79  : C
 60-69 : D
 <60     : E
+
+### Drill Sessions
+<b>Time:</b> 9:45-11:15am and 1:30-3:45pm <br>
+<b>Location:</b> BELL 1108E
 
 ### Capstone Projcts
 Part of the project titles are listed below:
@@ -61,14 +61,35 @@ Part of the project titles are listed below:
 * Face Detection & Recognition
 * UARK campus scene understanding 
 
-### Weekly Summary
-|        | Topics                                                                                                                                                                        | Tools/Libraries                                                                  | Projects                                        |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------|
-| week 1 | <ul> <li>python basics</li>  <li>probability and statistics</li>  <li>linear algebra</li>  <li>machine learning intro</li> <li>machine learning fairness</li> </ul>           | <ul><li>git</li> <li>python</li> <li>jupyter notebook</li>   <li>numpy</li></ul> |                                                 |
-| week 2 | <ul> <li>data visualization</li>  <li>exploratory data analysis</li> </ul>                                                                                                    | <ul><li>pandas</li>  <li>matplotlib</li> <li>seaborn</li></ul>                   | Project1                                        |
-| week 3 | <ul> <li>regression</li> <li>neural networks</li> </ul>                                                                                                                       | <ul><li>sklearn</li> <li>tensorflow</li></ul>                                    | Project2                                        |
-| week 4 | <ul><li>classification</li> <li>image classification</li> <li>image-video classification</li> </li>                                                                           |                                                                                  | Project3 <br>Project4 <br>Capstone introduction |
-| week 5 | <ul><li>deep learning</li>  <li>convolutional neural networks</li> <li>recurrent neural networks</li>  <li>NLP</li> <li>transfer learning</li>                                |                                                                                  | Project5 <br> Capstone discussion               |
-| week 6 | <ul><li>clustering</li>  <li>k-means</li>  <li>embedding</li> <li>decision tree</li> <li>random forest</li> <li>KNN</li> <li>SVM</li> <li>Bayesian</li> <li>XGBoost</li></ul> |                                                                                  | Capstone discussion                             |
-| week 7 | <ul><li>activation functions</li>  <li>loss functions</li> <li>dimensionality reduction</li> <li>regular expression</li></ul>                                                 |                                                                                  | Capstone discussion                             |
-| week 8 | <ul><li>career development</li>  <li>interview prep</li><ul>                                                                                                                  |                                                                                  | Capstone Presentation                           |
+### Lecture Topics
+- <b>week1 - (June 7 ~ June 11)</b><br> 
+
+<b>Summary:</b> python basics, probability and statistics, linear algebra, machine learning introduction, machine learning fairness
+
+- <b>week2 - (June 14 ~ June 18)</b><br> 
+
+<b>Summary:</b> data visualization, exploratory data analysis
+
+- <b>week3 - (June 14 ~ June 18)</b><br> 
+
+<b>Summary:</b> regression, neural networks
+
+- <b>week4 - (June 28 ~ July 02)</b><br> 
+
+<b>Summary:</b> classification, image classification, image-video classification, saving/loading models
+
+- <b>week5 - (July 05 ~ July 09)</b><br> 
+
+<b>Summary:</b> deep learning, CNNs, RNNs, NLP, transfer learning
+
+- <b>week6 - (July 12 ~ July 16)</b><br> 
+
+<b>Summary:</b> clustering, k-means, embedding, decision tree, random forest, KNN, SVM, Bayesian, XGBoost
+
+- <b>week7 - (July 19 ~ July 23)</b><br> 
+
+<b>Summary:</b> advanced activation fuctions, Big O, dimensionality reduction, loss functions, regular expressions
+
+- <b>week8 - (July 26 ~ July 30)</b><br> 
+
+<b>Summary:</b> career development, interview preparation, capstone presentation  
