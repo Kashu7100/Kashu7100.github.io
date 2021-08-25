@@ -52,7 +52,7 @@ location: "Fayetteville, AR"
 <b>Location:</b> BELL 1108E
 
 ### Capstone Projcts
-Part of the project titles are listed below:
+2-4 of the AMLI students will be assigned to the project during the last 4-5 weeks of the program. The students will apply their new found ML skills to the project. Part of the project titles are listed below:
 * Stock Price Prediction 
 * Cybersecurity: Network Threat Detection 
 * Action recognition 
@@ -93,3 +93,21 @@ Part of the project titles are listed below:
 - <b>week8 - (July 26 ~ July 30)</b><br> 
 
 <b>Summary:</b> career development, interview preparation, capstone presentation  
+
+## Sponsers
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+  <tbody>
+    <tr>
+      <td style="vertical-align:middle">
+        <p align="center"><img src="/images/GoogleEdLogo.png" width="150"/></p>
+      </td>
+      <td style="vertical-align:middle">
+        <p align="center"><img src="/images/nacme-1024x686-3.jpeg" width="150"/></p>
+      </td>
+    </tr>
+</tbody>
+</table>
+
+## Media Coverage 
+
+[College of Engineering Offers Applied Machine Learning Intensive for Summer](https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer)
