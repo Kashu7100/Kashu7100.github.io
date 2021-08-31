@@ -13,27 +13,39 @@ location: "Fayetteville, AR"
 ## Class Overview
 <b>Summary:</b> A bootcamp-style course for undergraduate college students. Designed for students who weren’t necessarily majoring in computer science, the goal was to enable participants to apply machine learning to different fields using high-level tools.
 
-<!-- ## People -->
-<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+## People
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
   <tbody>
     <tr>
       <td style="vertical-align:middle">
-        <p align="center"><img src="/images/icj070128s.jpg" width="120"/></p>
+        <p align="center"><img src="https://campusdata.uark.edu/resources/images/FacultyStaffProfile/khoaluu.jpg" width="120"/></p>
       </td>
       <td style="vertical-align:middle">
-        <p align="center"><img src="/images/prof.jpg" width="120"/></p>
+        <p align="center"><img src="https://campusdata.uark.edu/resources/images/FacultyStaffProfile/thile.jpg" width="120"/></p>
+      </td>
+      <td style="vertical-align:middle">
+        <p align="center"><img src="https://campusdata.uark.edu/resources/images/FacultyStaffProfile/cer.jpg" width="120"/></p>
+      </td>
+      <td style="vertical-align:middle">
+        <p align="center"><img src="https://campusdata.uark.edu/resources/images/FacultyStaffProfile/shengfan.jpg" width="120"/></p>
       </td>
     </tr>
     <tr>
       <td style="horizontal-align:middle">
-        <center><p>Instructor: </p><a href="https://icjong.hosted.uark.edu/">Ing-Chang Jong</a></center>
+        <center><p>Instructor: </p><a>Khoa Luu</a></center>
       </td>
       <td style="horizontal-align:middle">
-        <center><p>TA: </p><a>Kashu Yamazaki</a></center>
+        <center><p>Instructor: </p><a>Thi Hoang Ngan Le</a></center>
+      </td>
+      <td style="horizontal-align:middle">
+        <center><p>Instructor: </p><a>Chase Rainwater</a></center>
+      </td>
+      <td style="horizontal-align:middle">
+        <center><p>Instructor: </p><a>Shengfan Zhang</a></center>
       </td>
     </tr>
   </tbody>
-</table> -->
+</table> 
   
 ## Lecture Information
 <b>Duration:</b> June 7 ~ July 30 (Mo,Tu,We,Th,Fr) 8:45am-3:45pm (CST)
