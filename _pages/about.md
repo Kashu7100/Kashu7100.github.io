@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-- <b>Kashu Yamazaki</b> is a research assistant in the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville.
+- I am a research assistant in the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville.
 
 - I received a Bachelor of Science in Mechanical Engineering in 2020 from University of Arkansas, Fayetteville with Summa Cum Laude.
 
