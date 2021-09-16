@@ -20,8 +20,17 @@ For the up-to-date publication list, please visit the <a href="https://scholar.g
 </p>
 
 <div id="all">
+  <h2>2021</h2>
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% if post.year == 2021 %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  <h2>2020</h2>
+  {% for post in site.publications reversed %}
+    {% if post.year == 2020 %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 </div>
 <div id="conference">
