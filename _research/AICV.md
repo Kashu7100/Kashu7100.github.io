@@ -11,11 +11,21 @@ location: "Fayetteville, AR"
 ---
 
 
-## Video Dense Captioning
+## Robotics
 
 coming soon...
 
-## Medical Image Segmentaion
+## Video Understanding
+### Action Proposal
+
+coming soon...
+
+### Captioning
+
+coming soon...
+
+## Image Understanding
+### Medical Image Segmentaion
 
 coming soon...
 
