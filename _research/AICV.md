@@ -4,7 +4,7 @@ collection: research
 type: "Research Assistant"
 topic: "robotics, computer vision"
 permalink: /research/AICV
-image: "/images/uark_csce.png" 
+image: "/images/uark_logo.jpg" 
 venue: "University of Arkansas, Computer Science and Computer Engineering"
 date: 2019-08-01
 location: "Fayetteville, AR"
