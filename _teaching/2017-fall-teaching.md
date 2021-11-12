@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 subject: "Statics"
 permalink: /teaching/2017-fall-teaching
-image: "/images/uark_meeg.png" 
+image: "/images/uark_logo.jpg" 
 venue: "University of Arkansas, Mechanical Engineering"
 date: 2017-08-01
 location: "Fayetteville, AR"
