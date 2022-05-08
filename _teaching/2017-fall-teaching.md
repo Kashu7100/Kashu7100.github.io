@@ -70,7 +70,7 @@ location: "Fayetteville, AR"
 ### Parallel-Axis Theorem (PAT)
 The moment of inertia of a body about a given axis is related to the moment of inertia about a centroidal axis parallel to the given axis as follows:
 
-<center><a href="images/pat.gif" /></a></center>
+<p align="center"><img src="images/pat.gif"/></p>
 
 ### Work
 **Work** is energy in transition to a system due to *force or moment* acting on the system through a displacement. Note that **Heat** is energy in transition to a system due to *temperature difference* between the system and its surroundings. Work differs from energy in that workis nota property possessed by a system, while energy (e.g., kinetic energy or potential energy) is. Work is a boundary phenomenon.
