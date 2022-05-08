@@ -11,7 +11,10 @@ author_profile: true
 
 ## Awards
 
-1. Reginald R. “Barney” & Jameson A. Baxter Graduate Fellowship
+* Reginald R. “Barney” & Jameson A. Baxter Graduate Fellowship
+* Blanche Bledsoe Rosecrans & Clarence J. Rosecrans, Sr. Memorial Scholarship
+* Boles-Vaulx Scholarship
+* Charles D. Brock Engineering Scholarship
 
 ## Certifications
 
