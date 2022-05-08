@@ -2,7 +2,7 @@
 title: "Applied Machine Learning Intensive"
 collection: teaching
 type: "Teaching Assistant"
-subject: "entry-level introduction to machine learning for under-represented minority (URM) undergraduate students"
+subject: "entry-level introduction to machine learning"
 permalink: /teaching/2021-summer-teaching
 image: "/images/google.png" 
 venue: "University of Arkansas and Google"
