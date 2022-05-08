@@ -13,6 +13,11 @@ author_profile: true
 
 1. Reginald R. “Barney” & Jameson A. Baxter Graduate Fellowship
 
+## Certifications
+
+* Certified Associate - Mechanical Design (CSWA), C-E68HURZWN4 
+
+
 ## Academic Services
 
 ### Conference Reviewer 
