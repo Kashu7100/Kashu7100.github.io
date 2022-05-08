@@ -67,6 +67,7 @@
                 <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
               {% endif %}
               <br><p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+              <br><p> {{ post.subject }} </p>
             </td>
         </tr></tbody>
       </table>
