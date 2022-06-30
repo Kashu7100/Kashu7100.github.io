@@ -19,7 +19,7 @@ In this paper, we leverage the human perceiving process, that involves vision an
 ## Citation
 ```bibtex
 @ARTICLE{2022arXiv220612972Y,
-       author = {{Yamazaki}, Kashu and {Truong}, Sang and {Vo}, Khoa and {Kidd}, Michael and {Rainwater}, Chase and {Luu}, Khoa and {Le}, Ngan},
+       author = {Yamazaki, Kashu and Truong, Sang and Vo, Khoa and Kidd, Michael and Rainwater, Chase and Luu, Khoa and Le, Ngan},
         title = "{VLCap: Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning}",
       journal = {arXiv e-prints},
      keywords = {Computer Science - Computer Vision and Pattern Recognition},
