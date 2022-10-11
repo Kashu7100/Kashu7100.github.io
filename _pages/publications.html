@@ -60,9 +60,9 @@ For the up-to-date publication list, please visit the <a href="https://scholar.g
     {% endif %}
   {% endfor %}
 </div>
-<div id="journal">
+<div id="book chapter">
   {% for post in site.publications reversed %}
-    {% if post.type == 'book chapter' || post.type == 'Journal paper' %}
+    {% if post.type == 'book chapter' || post.type == 'Book Chapter' %}
       {% include archive-single.html %}
     {% endif %}
   {% endfor %}
