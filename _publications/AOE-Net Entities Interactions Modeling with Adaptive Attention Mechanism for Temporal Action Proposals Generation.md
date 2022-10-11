@@ -16,7 +16,7 @@ Temporal action proposal generation (TAPG) is a challenging task, which requires
 ## Citation
 ```bibtex
 @ARTICLE{2022arXiv221002578V,
-       author = {{Vo}, Khoa and {Truong}, Sang and {Yamazaki}, Kashu and {Raj}, Bhiksha and {Tran}, Minh-Triet and {Le}, Ngan},
+       author = {Vo, Khoa and Truong, Sang and Yamazaki, Kashu and Raj, Bhiksha and Tran, Minh-Triet and Le, Ngan},
         title = "{AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation}",
       journal = {arXiv e-prints},
      keywords = {Computer Science - Computer Vision and Pattern Recognition},
