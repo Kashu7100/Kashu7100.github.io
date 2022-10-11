@@ -12,22 +12,26 @@ location: "Fayetteville, AR"
 
 
 ## Robotics
-
-coming soon...
+* Reinforcement Learning and Sim2Real for quadruped gait 
+<p align="center"><img src="/images/go1_isaac_gym.gif" width="400"/></p>
 
 ## Video Understanding
 ### Action Proposal
 
-coming soon...
+<p align="center"><img src="/images/abn.gif" width="650"/></p>
 
 ### Captioning
 
 coming soon...
 
 ## Image Understanding
-### Medical Image Segmentaion
+### Open Vocabulary Image Segmentaion
 
 coming soon...
+
+### Medical Image Segmentaion
+* Invertible Residual Network with Regularization for memory efficietnt 3D segmentation
+<p align="center"><img src="/images/Fully_InvRes.jpg" width="400"/></p>
 
 ## Spiking Neural Networks
 
