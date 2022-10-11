@@ -5,8 +5,8 @@ collection: publications
 permalink: /publication/aoe_net_entities_interactions_modeling_with_adaptive_attention_mechanism_for_temporal_action_proposals_generation
 type: "journal paper"
 publication: "International Journal of Computer Vision (IJCV)"
-year: "2020"
-date: 2020-12-03
+year: "2022"
+date: 2022-12-03
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://arxiv.org/abs/2210.02578'">arXiv</button>
 
