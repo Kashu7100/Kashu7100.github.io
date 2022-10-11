@@ -1,12 +1,12 @@
 ---
-title: "Meta-Learning of NAS for Few-shot Learning in Medical Image Applications"
+title: "Neural architecture search for medical image applications"
 authors: "Viet-Khoa Vo-Ho, <b>Kashu Yamazaki</b>, Hieu Hoang, Minh-Triet Tran, Ngan Le"
 collection: publications
-permalink: /publication/meta_learning_of_nas_for_few_shot_learning_in_medical_image_applications
-type: "preprint"
-publication: "arxiv"
-year: "2022"
-date: 2022-03-16
+permalink: /publication/neural_architecture_search_for_medical_image_applications
+type: "book chapter"
+publication: "Meta-Learning with Medical Imaging and Health Informatics Applications"
+year: "2023"
+date: 2023-03-16
 ---
 
 ## Abstract
