@@ -6,7 +6,7 @@ permalink: /publication/aoe_net_entities_interactions_modeling_with_adaptive_att
 type: "journal paper"
 publication: "International Journal of Computer Vision (IJCV)"
 year: "2022"
-date: 2022-12-03
+date: 2022-10-03
 ---
 <button class="btn btn-round btn-sm btn-ghost-blue" onclick="location.href='https://arxiv.org/abs/2210.02578'">arXiv</button>
 
