@@ -15,7 +15,7 @@ Amodal Instance Segmentation (AIS) aims to segment the region of both visible an
 ## Citation
 ```bibtex
 @ARTICLE{2022arXiv221006323T,
-       author = {{Tran}, Minh and {Vo}, Khoa and {Yamazaki}, Kashu and {Fernandes}, Arthur and {Kidd}, Michael and {Le}, Ngan},
+       author = {Tran, Minh and Vo, Khoa and Yamazaki, Kashu and Fernandes, Arthur and Kidd, Michael and Le, Ngan},
         title = "{AISFormer: Amodal Instance Segmentation with Transformer}",
       journal = {arXiv e-prints},
      keywords = {Computer Science - Computer Vision and Pattern Recognition},
