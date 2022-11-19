@@ -12,17 +12,17 @@ location: "Fayetteville, AR"
 
 
 ## Robotics
-* Reinforcement Learning and Sim2Real for quadruped gait 
+* Reinforcement learning for robust quadruped gait generation
 <p align="center"><img src="/images/go1_isaac_gym.gif" width="400"/></p>
 
 ## Video Understanding
 ### Action Proposal
-
+* Agent-aware Temporal Event Proposal Generation (TEPG)
 <p align="center"><img src="/images/abn.gif" width="650"/></p>
 
 ### Captioning
-
-coming soon...
+* Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning
+<p align="center"><img src="/images/vltint.png" width="650"/></p>
 
 ## Image Understanding
 ### Open Vocabulary Image Segmentaion
@@ -32,6 +32,9 @@ coming soon...
 ### Medical Image Segmentaion
 * Invertible Residual Network with Regularization for memory efficietnt 3D segmentation
 <p align="center"><img src="/images/Fully_InvRes.jpg" width="400"/></p>
+
+* A Multi-task Contextual Network for Brain Tumor Detection & Segmentation
+<p align="center"><img src="/images/multi-task.png" width="400"/></p>
 
 ## Spiking Neural Networks
 
