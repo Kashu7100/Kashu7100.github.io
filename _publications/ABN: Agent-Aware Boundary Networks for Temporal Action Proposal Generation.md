@@ -1,5 +1,8 @@
 ---
 title: "ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation"
+image: "/images/pubpic/khoa_access21.png"
+link: https://ieeexplore.ieee.org/abstract/document/9530693
+github: 
 authors: "K. Vo, <b>K. Yamazaki</b>, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le"
 collection: publications
 permalink: /publication/abn_agent_aware-boundary_networks_for_temporal_action_proposal_generation

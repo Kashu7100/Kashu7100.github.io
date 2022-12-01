@@ -1,5 +1,8 @@
 ---
 title: "Narrow Band Active Contour Attention Model for Medical Segmentation"
+image: "/images/pubpic/le_mdpi21.png"
+link: https://www.mdpi.com/2075-4418/11/8/1393/htm
+github: 
 authors: "N. Le, T. Bui, K. Vo-Ho, <b>K. Yamazaki</b>, K. Luu"
 collection: publications
 permalink: /publication/narrow_band_active_contour_attention_model_for_medical_segmentation

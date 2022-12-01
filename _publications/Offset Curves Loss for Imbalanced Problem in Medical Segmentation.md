@@ -1,5 +1,8 @@
 ---
 title: "Offset Curves Loss for Imbalanced Problem in Medical Segmentation"
+image: "/images/pubpic/le_icpr20b.png"
+link: https://ieeexplore.ieee.org/iel7/9411940/9411911/09411921.pdf
+github: 
 authors: "N. Le, T. Le, <b>K. Yamazaki</b>, B. Toan, K. Luu "
 collection: publications
 permalink: /publication/offset_curves_loss_for_imbalanced_problem_in_medical_segmentation

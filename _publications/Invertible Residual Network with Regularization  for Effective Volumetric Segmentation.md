@@ -1,5 +1,8 @@
 ---
 title: "Invertible Residual Network with Regularization for Effective Volumetric Segmentation"
+image: "/images/pubpic/kashu_spie21.jpg"
+link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159610/Invertible-residual-network-with-regularization-for-effective-volumetric-segmentation/10.1117/12.2581396.pdf
+github: 
 authors: "<b>K. Yamazaki</b>, N. Le, V. Rathour"
 collection: publications
 permalink: /publication/invertible_residual_network_with_regularization_for_effective_volumetric_segmentation

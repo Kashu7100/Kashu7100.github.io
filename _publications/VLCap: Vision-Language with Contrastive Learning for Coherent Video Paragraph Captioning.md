@@ -1,5 +1,8 @@
 ---
 title: "VLCap: Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning"
+image: "/images/pubpic/kashu_icip22.png"
+link: https://ieeexplore.ieee.org/iel7/9897158/9897159/09897766.pdf
+github: https://github.com/UARK-AICV/VLCAP
 authors: "<b>K. Yamazaki</b>, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le"
 collection: publications
 permalink: /publication/vision_language_with_contrastive_learning_for_coherent_video_paragraph_captioning

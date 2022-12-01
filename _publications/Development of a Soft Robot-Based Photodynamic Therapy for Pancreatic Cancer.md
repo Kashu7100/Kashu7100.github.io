@@ -1,5 +1,8 @@
 ---
 title: "Development of a Soft Robot-Based Photodynamic Therapy for Pancreatic Cancer"
+image: "/images/pubpic/li_tmech21.png"
+link: https://ieeexplore.ieee.org/document/9314043
+github: 
 authors: "Y. Li, Y. Liu, <b>K. Yamazaki</b>, M. Bai, and Y.Chen"
 collection: publications
 permalink: /publication/development_of_a_soft_robot_based_photodynamic_therapy_for_pancreatic_cancer

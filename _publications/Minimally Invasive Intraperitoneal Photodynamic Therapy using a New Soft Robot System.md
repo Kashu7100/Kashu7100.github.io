@@ -1,5 +1,8 @@
 ---
 title: "Minimally Invasive Intraperitoneal Photodynamic Therapy using a New Soft Robot System"
+image: "/images/pubpic/liu_spie20.png"
+link: https://doi.org/10.1117/12.2551313
+github: 
 authors: "Y. Liu, <b>K. Yamazaki</b>, D. Zhang, Y. Li, M. Su, Q. Xie, Y. Chen, and M. Bai."
 collection: publications
 permalink: /publication/minimally_invasive_intraperitoneal_photodynamic_therapy_using_a_new_soft_robot_system

@@ -1,5 +1,8 @@
 ---
 title: "Gearbox Development for an Emergency Brake System of the Wind Turbine"
+image: "/images/pubpic/sirotkin_iop20.png"
+link: https://iopscience.iop.org/article/10.1088/1755-1315/459/2/022010
+github: 
 authors: "E. Sirotkin, <b>K. Yamazaki</b>, and A. Miroshnichenko."
 collection: publications
 permalink: /publication/gearbox_development_for_an_emergency_brake_system_of_the_wind_turbine

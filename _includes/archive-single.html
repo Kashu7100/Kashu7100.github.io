@@ -27,7 +27,17 @@
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <p> {{post.authors}} "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>". {{post.publication}}, {{post.year}}.</p>
+      <table style="width:100%;border:5px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+        <tbody><tr>
+            <td style="padding:15px;width:30%;horizontal-align:middle">
+                <img src="{{post.image}}"  style="float: left"/>
+            </td>
+            <td style="padding:5px;width:70%">
+              <p><a class="pub1" href="{{ post.link }}">{{ post.title }}</a></p>
+              <p><a class="pub2"> {{ post.authors }}, {{ post.publication }}, {{ post.year }}. </a></p>
+            </td>
+        </tr></tbody>
+      </table>
     {% elsif post.collection == 'portfolio' %}
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>

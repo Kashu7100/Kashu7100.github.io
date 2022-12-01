@@ -1,5 +1,8 @@
 ---
 title: "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+image: "/images/pubpic/le_air21.png"
+link: https://link.springer.com/article/10.1007/s10462-021-10061-9
+github: 
 authors: "N. Le, V. Rathour, <b>K. Yamazaki</b>, K. Luu, and M. Savvides"
 collection: publications
 permalink: /publication/deep_reinforcement_learning_in_computer_vision_a_comprehensive_survey

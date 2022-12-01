@@ -1,5 +1,8 @@
 ---
 title: "AISFormer: Amodal Instance Segmentation with Transformer"
+image: "/images/pubpic/minh_bmvc22.png"
+link: https://arxiv.org/abs/2210.06323
+github: https://github.com/UARK-AICV/AISFormer
 authors: "M. Tran, K. Vo, <b>K. Yamazaki</b>, A. Fernandes, M. Kidd, N. Le"
 collection: publications
 permalink: /publication/aisformer_amodal_instance_segmentation_with_transformer

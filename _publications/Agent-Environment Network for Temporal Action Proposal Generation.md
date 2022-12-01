@@ -1,5 +1,8 @@
 ---
 title: "Agent-Environment Network for Temporal Action Proposal Generation"
+image: "/images/pubpic/khoa_icassp21.png"
+link: https://ieeexplore.ieee.org/document/9415101
+github: 
 authors: "V. Vo-Ho, N. Le, <b>K. Yamazaki</b>, A. Sugimoto, and M. Tran"
 collection: publications
 permalink: /publication/agent_environment_network_for_temporal_action_proposal_generation
