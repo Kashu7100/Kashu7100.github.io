@@ -2,7 +2,7 @@
 title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
 image: "/images/pubpic/khoa_bmvc21.png"
 link: https://www.bmvc2021-virtualconference.com/conference/papers/paper_1095.html
-github: 
+github: https://github.com/UARK-AICV/TAPG-AgentEnvInteration
 authors: "K. Vo, H. Joo, <b>K. Yamazaki</b>,  S. Truong, K. Kitani,, M.-T. Tran, N. Le"
 collection: publications
 permalink: /publication/aei_actors_anvironment_interaction_with_adaptive_attention_for_temporal_action_proposals_generation

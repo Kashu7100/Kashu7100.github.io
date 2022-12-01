@@ -2,7 +2,7 @@
 title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
 image: "/images/pubpic/khoa_ijcv22.png"
 link: https://link.springer.com/article/10.1007/s11263-022-01702-9
-github: 
+github: https://github.com/UARK-AICV/AOE-Net
 authors: "K. Vo, S. Truong*, <b>K. Yamazaki</b>*, B. Raj, MT. Tran, N. Le"
 collection: publications
 permalink: /publication/aoe_net_entities_interactions_modeling_with_adaptive_attention_mechanism_for_temporal_action_proposals_generation

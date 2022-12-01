@@ -34,7 +34,11 @@
             </td>
             <td style="padding:5px;width:70%">
               <p><a class="pub1" href="{{ post.link }}">{{ post.title }}</a></p>
-              <p><a class="pub2"> {{ post.authors }}, {{ post.publication }}, {{ post.year }}. </a></p>
+              <p><a class="pub2"> {{ post.authors }}, <i>{{ post.publication }}</i>, {{ post.year }}. </a>
+              {% if post.github %}
+                <a href="{{ post.github }}"> <i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+              {% endif %}
+              </p>
             </td>
         </tr></tbody>
       </table>
@@ -65,37 +69,37 @@
     {% elsif post.collection == 'teaching' %}
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
-            <td style="padding:5px;width:25%;horizontal-align:middle">
+            <td style="padding:5px;width:20%;horizontal-align:middle">
               <p align="center">
-                <img src="{{post.image}}" width="98"/>
+                <img src="{{post.image}}" width="90"/>
               </p>
             </td>
-            <td style="padding:5px;width:75%">
+            <td style="padding:5px;width:80%">
               {% if post.link %}
-                <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
+                <b><a class="pub1" href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
               {% else %}
-                <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
+                <b><a class="pub1" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
               {% endif %}
-              <br><p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
-              <br> {{ post.subject }} </p>
+              <br><p><a class="pub2"> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+              <br> {{ post.subject }} </a></p>
             </td>
         </tr></tbody>
       </table>
     {% elsif post.collection == 'research' %}
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
         <tbody><tr>
-            <td style="padding:5px;width:25%;horizontal-align:middle">
+            <td style="padding:5px;width:20%;horizontal-align:middle">
               <p align="center">
-                <img src="{{post.image}}" width="98"/>
+                <img src="{{post.image}}" width="90"/>
               </p>
             </td>
-            <td style="padding:5px;width:75%">
+            <td style="padding:5px;width:80%">
               {% if post.link %}
-                <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
+                <b><a class="pub1" href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></b>
               {% else %}
-                <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
+                <b><a class="pub1" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
               {% endif %}
-              <br><p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+              <br><p> <a class="pub2"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </a></p>
             </td>
         </tr></tbody>
       </table>
