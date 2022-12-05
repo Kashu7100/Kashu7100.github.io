@@ -8,7 +8,10 @@ main:
 
   - title: "Experience"
     url: /experience/    
-    
+
+  # - title: "Projects"
+  #   url: /projects/    
+
   - title: "More"
     url: /more/
         

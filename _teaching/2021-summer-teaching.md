@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 subject: "Entry-level introduction to machine learning"
 permalink: /teaching/2021-summer-teaching
-image: "/images/google.png" 
+image: "/images/GoogleEdLogo.png" 
 venue: "University of Arkansas and Google"
 date: 2021-06-07
 location: "Fayetteville, AR"
