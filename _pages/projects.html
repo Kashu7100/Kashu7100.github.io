@@ -1,13 +1,36 @@
 ---
 layout: archive
-title: "Projects"
+title: "Featured Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 
 {% include base_path %}
-
+<hr>
 {% for post in site.research reversed %}
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+<tbody><tr>
+    <td style="padding:0px;width:80%;horizontal-align:left">
+        {{ post.content }}
+    </td>
+    <td style="padding:5px;width:20%">
+    </td>
+</tr></tbody>
+</table>
+{% endfor %}
 
+<br>
+<h1>Selected Personal Projects</h1>
+<hr>
+{% for post in site.projects reversed %}
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
+<tbody><tr>
+    <td style="padding:0px;width:80%;horizontal-align:left">
+        {{ post.content }}
+    </td>
+    <td style="padding:5px;width:20%">
+    </td>
+</tr></tbody>
+</table>
 {% endfor %}

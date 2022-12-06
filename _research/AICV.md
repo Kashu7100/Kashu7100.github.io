@@ -41,7 +41,7 @@ coming soon...
 
 ## Medical Imaging
 ### Tumor Segmentation
-![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="400"}
+![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="350"}
 In medical imaging, we often need to deal with volumetric data, which can be computationally demanding. To reduce the memory footprint during training, we proposed a fully invertible residual network consisting of bijective operations. This volume-preserving network successfully reduced memory demands by about half of the baseline model while maintaining performance.
 
 
