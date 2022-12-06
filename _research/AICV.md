@@ -16,8 +16,10 @@ location: "Fayetteville, AR"
 
 ### Low level control with RL
 
-![image](/images/aicvpic/go1_isaac_gym.gif){: style="float: right; margin:0 10px 10px 0" width="400"}
+![image](/images/projpic/go1_real.gif){: style="float: right; margin:0 10px 10px 0" width="200"}
+![image](/images/aicvpic/go1_isaac_gym.gif){: style="float: right; margin:0 10px 10px 0" width="250"}
 While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
+
 
 ### High level control with VLN
 coming soon...
