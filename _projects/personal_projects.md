@@ -18,6 +18,9 @@ A 3D printed low-cost quadrupedal robot designed and programed from scratch. The
 ![](/images/projpic/lailaps2.jpg){: width="210"}
 ![](/images/projpic/lailaps_real.gif){: width="100"}
 
+## PneuNets Actuator (2019)
+![image](/images/projpic/pneunet.gif){: style="float: right; margin:0 10px 10px 0" width="125"}
+PneuNets (pneumatic networks) are a class of soft actuator made up of a series of channels and chambers inside an elastomer. These channels inflate when pressurized, creating motion. The motion is determined by a design parameters like wall thickness and elastic behavior of a material. We can use FEM to model the behavior of the actuator and see the effects of changing various parameters such as material stiffness or chamber dimensions, without refabricating every time a design parameter is changed.
 
 ## Qualia (2018)
 ![image](/images/projpic/qualia.png){: style="float: right; margin:0 10px 10px 0" width="250"}
