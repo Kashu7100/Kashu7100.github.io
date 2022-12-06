@@ -47,6 +47,7 @@ coming soon...
 In medical imaging, we often need to deal with volumetric data, which can be computationally demanding. To reduce the memory footprint during training, we proposed a fully invertible residual network consisting of bijective operations. This volume-preserving network successfully reduced memory demands by about half of the baseline model while maintaining performance.
 
 
-## Spiking Neural Networks
+<!-- ## Spiking Neural Networks
 
-coming soon...
+Spiking neural networks aim to bridge the gap between neuroscience and machine learning, using biologically realistic models of neurons to carry out the computation. Due to their functional similarity to the biological neural network, spiking neural networks can embrace the sparsity found in biology and
+are highly compatible with temporal code.  -->
