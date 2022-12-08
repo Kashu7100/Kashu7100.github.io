@@ -16,7 +16,9 @@ About Me
 
 - My research interests focus on deep learning and robotics. In particular, I am interested in human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
 
-- Outside of research, I also have experience working on both software and hardware for robotics and deep learning-related projects.
+- Outside of research, I also have experience working on both software and hardware for robotics and deep learning-related projects. 
+
+- Fun fact: I personally own Go1 Edu by Unitree as my pet. 
 
 Recent News
 ======
