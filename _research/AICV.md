@@ -34,7 +34,7 @@ We propose to model these interactions with a multi-modal representation network
 ### Captioning
 
 ![image](/images/aicvpic/vltint_vpc_demo1.gif){: style="float: right; margin:0 10px 10px 0" width="400"}
-Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video with several temporal event locations in coherent storytelling. Following the human perception process, where the scene is effectively understood by decomposing it into visual and non-visual components under the mutual influence of vision and language, we first propose a visual-linguistic (VL) feature.
+Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video with several temporal event locations in coherent storytelling. Following the human perception process, where the scene is effectively understood by decomposing it into visual and non-visual components under the mutual influence of vision and language, we first propose a visual-linguistic (VL) feature.　In the proposed VL feature, the scene is modeled by three modalities including (i) a global visual environment; (ii) local visual main agents; (iii) linguistic scene elements. We then introduce an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video. 
 
 ## Image Understanding
 ### Open Vocabulary Segmentation
