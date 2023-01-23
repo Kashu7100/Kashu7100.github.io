@@ -22,8 +22,8 @@ About Me
 
 Recent News
 ======
-- November 18 2022. First author paper has been accepted to AAAI23!
-- June 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI) summer school.
+- November 18 2022. First author paper has been accepted to AAAI 2023.
+- June 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
 - January 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
 - December 18, 2020. Graduated from the University of Arkansas with *Summa Cum Laude*. 
 - September 6, 2019. My first paper about the soft robot is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short).
