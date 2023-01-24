@@ -18,7 +18,7 @@ author_profile: true
 
 ## Certifications
 
-* Certified Associate - Mechanical Design (CSWA), C-E68HURZWN4, 2017. 
+* Certified Associate - Mechanical Design (CSWA), [C-E68HURZWN4](/files/CSWA_kyamazak_email_uark_edu.pdf), 2017. 
 
 
 ## Academic Services
