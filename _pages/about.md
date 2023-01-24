@@ -16,21 +16,23 @@ About Me
 
 - My research interests focus on deep learning and robotics. In particular, I am interested in human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
 
-- Outside of research, I also have experience working on both software and hardware for robotics and deep learning-related projects. 
-
 - Fun fact: I personally own Go1 Edu by Unitree as my pet. 
 
 Recent News
 ======
-- November 18 2022. First author paper has been accepted to AAAI 2023.
-- June 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
-- January 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
+- Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+- Oct 2, 2022. One co-authored manuscript has been accepted to [IJCV](https://www.springer.com/journal/11263).
+- Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
+- Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/).
+- Oct 4, 2021. One co-authored paper has been accepted to [BMVC 2021](https://www.bmvc2021-virtualconference.com/) for **Oral Presentation**.
+- Jun 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
+- Jan 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
 - December 18, 2020. Graduated from the University of Arkansas with *Summa Cum Laude*. 
-- September 6, 2019. My first paper about the soft robot is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short).
-- November 30, 2017. Initiated as a member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
-- November 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
-- August 22, 2016. Started school at the University of Arkansas, Fayetteville.
-- August 2014. Joined Summer Program at Harvard University. 
+- Sep 6, 2019. *My first* co-authored paper is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short).
+- Nov 30, 2017. Initiated as a member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
+- Nov 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
+- Aug 22, 2016. Started school at the University of Arkansas, Fayetteville.
+- Aug 2014. Joined Summer Program at Harvard University. 
 <!-- - October 10, 2020. Two papers about medical segmentation are accepted to [ICPR](https://www.micc.unifi.it/icpr2020/).-->
 <!-- - September 6, 2019. A paper about the soft robot is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short) -->
 <!-- - April 20, 2020. A paper about wind turbine brake systems is accepted to [IOP](https://iopscience.iop.org/article/10.1088/1755-1315/459/2/022010).  -->
