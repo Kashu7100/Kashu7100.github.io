@@ -20,7 +20,7 @@ About Me
 
 Recent News
 ======
-- Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+- Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) for **Oral Presentation**.
 - Oct 2, 2022. One co-authored manuscript has been accepted to [IJCV](https://www.springer.com/journal/11263).
 - Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
 - Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/).
