@@ -32,7 +32,4 @@ Recent News
 - Nov 30, 2017. Initiated as a member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
 - Nov 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
 - Aug 22, 2016. Started school at the University of Arkansas, Fayetteville.
-- Aug 2014. Joined Summer Program at Harvard University. 
-<!-- - October 10, 2020. Two papers about medical segmentation are accepted to [ICPR](https://www.micc.unifi.it/icpr2020/).-->
-<!-- - September 6, 2019. A paper about the soft robot is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short) -->
-<!-- - April 20, 2020. A paper about wind turbine brake systems is accepted to [IOP](https://iopscience.iop.org/article/10.1088/1755-1315/459/2/022010).  -->
+- Aug 2014. Joined Summer Program at Harvard University.

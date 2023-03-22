@@ -15,7 +15,8 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $helvetica;
+  font-weight: $font-light; 
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -48,6 +49,7 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-family: $helvetica;
+    font-weight: $font-light; 
   }
 }

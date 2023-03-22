@@ -5,7 +5,8 @@
 table {
   margin-bottom: 0em;
   width: 100%;
-  font-family: $global-font-family;
+  font-family: $helvetica;
+  font-weight: $font-light; 
   font-size: $doc-font-size;
   border-collapse: collapse;
   border: 0px solid $light-gray;

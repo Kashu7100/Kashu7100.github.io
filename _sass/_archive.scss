@@ -41,7 +41,8 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $helvetica;
+  font-weight: $font-light; 
 
   a + a {
     opacity: 0.5;

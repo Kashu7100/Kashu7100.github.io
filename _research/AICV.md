@@ -10,44 +10,110 @@ date: 2020-01-01
 location: "Fayetteville, AR"
 ---
 
+## Explainable Representation Learning for Video Understanding
 
-## Robotics
-<!-- **How can we develop robust policies for quadruped robots, similar to those found in animals?** -->
+Extracting contextual visual representation from untrimmed videos is challenging due to their long and complex temporal structure. While existing approaches typically rely on pre-trained backbone networks to extract visual representation, we take a different approach, focusing on extracting the most contextual information in an explainable manner. 
 
-### Low level control with RL
+### Application in Action Proposal
+<!-- <a href="url"><img src="/images/aicvpic/tapg.png" height="auto" width="400" style="border-radius:5%; float: right; margin:0 10px 10px 0"></a> -->
+![image](/images/aicvpic/tapg.png){: style="float: right; margin:0 10px 10px 0" width="400" }
 
-![image](/images/projpic/go1_real.gif){: style="float: right; margin:0 10px 10px 0" width="200"}
-![image](/images/aicvpic/go1_isaac_gym.gif){: style="float: right; margin:0 10px 10px 0" width="250"}
-While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
+Temporal action proposal generation (TAPG) is a challenging task, which requires localizing action intervals in an untrimmed video. Given an untrimmed video $\mathcal{V}$, our goal is to generate a set of temporal segments $a_i = (s_i, e_i) \|_{i=1}^{M}$ which inclusively and tightly contain actions of interest. Where an action segment comprised of a starting timestamp ($s_i$) and an ending timestamp ($e_i$).
 
+Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 and THUMOS-14 datasets show that our proposed [AOE-Net](https://link.springer.com/article/10.1007/s11263-022-01702-9) outperforms previous state-of-the-art methods with remarkable performance and generalization for both TAPG and temporal action detection.
 
-### High level control with VLN
+### Application in Captioning
+
+<center>
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="/images/aicvpic/vltint_vpc_demo1.gif"  style="border-radius:10px;">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="/images/aicvpic/vltint_vpc_demo2.gif" style="border-radius:10px;">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="/images/aicvpic/vltint_vpc_demo3.gif" style="border-radius:10px;">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+</center>
+
+Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video in coherent storytelling given the event boundaries. Given an untrimmed video $\mathcal{V}$ and event boundaries $a_i = (s_i, e_i) \|_{i=1}^{M}$, our goal is to generate a coherent paragraph $\mathcal{P}$ with $M$ sentences that describes the whole video $\mathcal{V}$. 
+
+We proposed an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video.
+Comprehensive experiments and extensive ablation studies on ActivityNet Captions and YouCookII datasets show that the proposed Visual-Linguistic Transformer-in-Transform ([VLTinT](https://uark-aicv.github.io/VLTinT/)) outperforms prior state-of-the-art methods on both accuracy and diversity. 
+
+## Open Vocabulary Models for Semantic Understanding
+
 coming soon...
 
-## Video Understanding
+## Learning High-Agility Locomotion for Quadrupeds
 
-### Action Proposal
-![image](/images/aicvpic/tapg.png){: style="float: right; margin:0 10px 10px 0" width="400"}
-Temporal action proposal generation (TAPG) is a challenging task, which requires localizing action intervals in an untrimmed video. Intuitively, we as humans, perceive an action through the interactions between actors, relevant objects, and the surrounding environment. Despite the significant progress of TAPG, a vast majority of existing methods ignore the aforementioned principle of the human perceiving process by applying a backbone network into a given video as a black-box.
-We propose to model these interactions with a multi-modal representation network, namely, Actors-Objects-Environment Interaction Network
+<center>
+<img src="/images/aicvpic/go1_isaac_gym.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
+</center>
+<!-- ![image](/images/aicvpic/go1_isaac_gym.gif){: style="border-radius:10px; float: center; margin:0 10px 10px 0" width="500"} -->
+![image](/images/projpic/go1_real.gif){: style="border-radius:10px; float: right; margin:0 10px 10px 0" width="200"}
 
-### Captioning
+While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands. 
+We evaluate our learnt policies on a real Unitree Go1 robot. We find that our policies trained entirely in simulation are able to transfer to the real world zero-shot.
 
-![image](/images/aicvpic/vltint_vpc_demo1.gif){: style="float: right; margin:0 10px 10px 0" width="400"}
-Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video with several temporal event locations in coherent storytelling. Following the human perception process, where the scene is effectively understood by decomposing it into visual and non-visual components under the mutual influence of vision and language, we first propose a visual-linguistic (VL) feature.　In the proposed VL feature, the scene is modeled by three modalities including (i) a global visual environment; (ii) local visual main agents; (iii) linguistic scene elements. We then introduce an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video. 
-
-## Image Understanding
-### Open Vocabulary Segmentation
-
+## Combining Vision and Language for Perception and Policy Generation
 coming soon...
 
-## Medical Imaging
-### Tumor Segmentation
-![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="350"}
-In medical imaging, we often need to deal with volumetric data, which can be computationally demanding. To reduce the memory footprint during training, we proposed a fully invertible residual network consisting of bijective operations. This volume-preserving network successfully reduced memory demands by about half of the baseline model while maintaining performance.
 
 
-<!-- ## Spiking Neural Networks
+## Memory Efficient Model for Medical Imaging
+![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="320"}
+In medical imaging, we frequently work with volumetric data, which can be challenging to process computationally. To tackle this issue, we have developed a fully invertible residual network that utilizes bijective operations to reduce the memory footprint during training. Our volume-preserving approach has proven to be highly effective in reducing memory demands during training. By implementing this technique, we have successfully reduced memory requirements by approximately 50% compared to the baseline model, without compromising the performance. 
 
-Spiking neural networks aim to bridge the gap between neuroscience and machine learning, using biologically realistic models of neurons to carry out the computation. Due to their functional similarity to the biological neural network, spiking neural networks can embrace the sparsity found in biology and
-are highly compatible with temporal code.  -->
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>

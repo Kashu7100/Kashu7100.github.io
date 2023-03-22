@@ -12,7 +12,8 @@ body {
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
-  font-family: $global-font-family;
+  font-family: $helvetica;
+  font-weight: $font-light; 
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,8 +25,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
-  font-weight: bold;
+  font-family: $helvetica;
+  font-weight: $font-regular; 
 }
 
 h1 {
@@ -237,7 +238,8 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
-  font-family: $caption-font-family;
+  font-family: $helvetica;
+  font-weight: $font-light; 
   font-size: $type-size-6;
 
   a {

@@ -44,7 +44,8 @@
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  font-family: $helvetica;
+  font-weight: $font-light; 
   font-size: $type-size-4;
 }
 
@@ -86,13 +87,14 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
-    font-weight: bold;
+    font-family: $helvetica;
+    font-weight: $font-light; 
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    font-family: $helvetica;
+    font-weight: $font-light; 
     font-size: $type-size-6;
   }
 

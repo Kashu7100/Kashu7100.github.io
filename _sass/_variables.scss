@@ -18,8 +18,10 @@ $sans-serif                 : 'FontAwesome'; /*-apple-system, ".SFNSText-Regular
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
+$font-light                 : 330;
+$font-regular                : 340;
+$helvetica                  : "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;

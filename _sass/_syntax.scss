@@ -19,7 +19,8 @@ div.highlighter-rouge, figure.highlight {
     padding: 0.5em;
     background-color: $lighter-gray;
     /*content: "\f121";*/
-    font-family: "fontawesome" !important;
+    font-family: $helvetica;
+    font-weight: $font-light; 
     font-size: 0.75em;
     line-height: 1;
     text-transform: none;
@@ -28,7 +29,8 @@ div.highlighter-rouge, figure.highlight {
 
   .highlight {
     margin: 0;
-    font-family: $monospace;
+    font-family: $helvetica;
+    font-weight: $font-light; 
     font-size: $type-size-7;
     line-height: 1.8;
   }
