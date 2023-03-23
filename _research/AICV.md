@@ -46,10 +46,8 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div> -->
-
-<!-- The dots/circles -->
-<!-- <div style="text-align:center">
+</div> 
+<div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
@@ -63,23 +61,41 @@ Comprehensive experiments and extensive ablation studies on ActivityNet Captions
 
 ## Open Vocabulary Models for Semantic Understanding
 
-coming soon...
+Open vocabulary recognition has recently attracted a lot of attention in computer vision as it allows to perform language-conditioned unbounded understanding. 
+
+<center>
+<a href="/images/openvoc1.png"><img src="/images/openvoc1.png" height="auto" width="230" style="border-radius:10px; float: center; margin:0 10px 10px 0"></a>
+<a href="/images/openvoc2.png"><img src="/images/openvoc2.png" height="auto" width="230" style="border-radius:10px; float: center; margin:0 10px 10px 0"></a>
+<a href="/images/openvoc3.png"><img src="/images/openvoc3.png" height="auto" width="230" style="border-radius:10px; float: center; margin:0 10px 10px 0"></a>
+</center>
+
 
 ## Learning High-Agility Locomotion for Quadrupeds
+
+While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. We utilize a reinforcement learning and representation learning to acquire the high-agility locomotion skills for quadrupeds.
+
+### Massively Parallel Reinforcement Learning 
 
 <center>
 <img src="/images/aicvpic/go1_isaac_gym.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
 </center>
-<!-- ![image](/images/aicvpic/go1_isaac_gym.gif){: style="border-radius:10px; float: center; margin:0 10px 10px 0" width="500"} -->
-![image](/images/projpic/go1_real.gif){: style="border-radius:10px; float: right; margin:0 10px 10px 0" width="200"}
 
-While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands. 
+Here we use massively parallel RL to train a quadruped to walk on various terrains. In the simulation, a quadruped learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands. 
 We evaluate our learnt policies on a real Unitree Go1 robot. We find that our policies trained entirely in simulation are able to transfer to the real world zero-shot.
 
-## Combining Vision and Language for Perception and Policy Generation
+<center>
+<img src="/images/projpic/go1_real.gif" height="auto" width="230" style="border-radius:10px; margin:0 10px 10px 0">
+<a href="/images/llm_voice.mp4"><img src="/images/llm_voice.gif" height="auto" width="290" style="border-radius:10px; margin:0 10px 10px 0"></a>
+</center>
+
+<!-- ## Utilizing LLMs for Robotics
+
+Large language models (LLMs)  -->
+
+
+## Vision and Language Grounding for Robotic Perception and Policy Generation
+
 coming soon...
-
-
 
 ## Memory Efficient Model for Medical Imaging
 ![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="320"}
