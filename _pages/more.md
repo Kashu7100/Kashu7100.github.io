@@ -30,3 +30,5 @@ author_profile: true
 - IEEE International Conference on Image Processing (ICIP), 2022.
 - Conference on Association for the Advancement of Artificial Intelligence (AAAI), 2023.
 
+### Journal Reviewer
+- IEEE Transactions on Neural Networks and Learning Systems
