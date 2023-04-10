@@ -20,6 +20,7 @@ About Me
 
 Recent News
 ======
+- Apr 7, 2023. One co-authored paper has been accepted to [The 5th Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1) at CVPR 2023. 
 - Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) for **Oral Presentation**.
 - Oct 2, 2022. One co-authored manuscript has been accepted to [IJCV](https://www.springer.com/journal/11263).
 - Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
