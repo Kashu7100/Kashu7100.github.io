@@ -20,6 +20,7 @@ About Me
 
 Recent News
 ======
+- Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/).
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
 - Apr 7, 2023. One co-authored paper has been accepted to [CVPRW 2023](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1). 
 - Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) for **Oral Presentation**.
