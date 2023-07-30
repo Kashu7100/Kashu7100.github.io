@@ -3,7 +3,7 @@ title: "Neural architecture search for medical image applications"
 image: "/images/pubpic/khoa_book23.png"
 link: https://www.sciencedirect.com/science/article/pii/B9780323998512000296
 github: 
-authors: "Viet-Khoa Vo-Ho, <b>Kashu Yamazaki</b>, Hieu Hoang, Minh-Triet Tran, Ngan Le"
+authors: "K. Vo, <b>K. Yamazaki</b>, H. Hoang, M. Tran, N. Le"
 collection: publications
 permalink: /publication/neural_architecture_search_for_medical_image_applications
 type: "book chapter"
