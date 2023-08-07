@@ -20,6 +20,7 @@ About Me
 
 Recent News
 ======
+- Aug 3, 2023. Obtained MS from the University of Arkansas. 
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/).
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
 - Apr 7, 2023. One co-authored paper has been accepted to [CVPRW 2023](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1). 
@@ -30,7 +31,7 @@ Recent News
 - Oct 4, 2021. One co-authored paper has been accepted to [BMVC 2021](https://www.bmvc2021-virtualconference.com/) for **Oral Presentation**.
 - Jun 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
 - Jan 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
-- December 18, 2020. Graduated from the University of Arkansas with *Summa Cum Laude*. 
+- Dec 18, 2020. Obtained BS from the University of Arkansas with *Summa Cum Laude*. 
 - Sep 6, 2019. *My first* co-authored paper is accepted to [SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11220/2551313/Minimally-invasive-intraperitoneal-photodynamic-therapy-using-a-new-soft-robot/10.1117/12.2551313.short).
 - Nov 30, 2017. Initiated as a member of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), the Engineering Honor Society.
 - Nov 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
