@@ -10,13 +10,13 @@ redirect_from:
 
 About Me
 ======
-- I am a research assistant in the [Computer Science](https://computer-science-and-computer-engineering.uark.edu/) Department advised by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. Previously, I was advised by Dr. [Yue Chen](https://bme.gatech.edu/bme/faculty/Yue-Chen) in the Mechanical Engineering Department. 
+- I am a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. Previously, I was advised by Dr. [Yue Chen](https://bme.gatech.edu/bme/faculty/Yue-Chen) in the Mechanical Engineering Department. 
 
-- I received a Bachelor of Science in Mechanical Engineering in 2020 from the University of Arkansas, Fayetteville with *Summa Cum Laude*.
+- I received a Master of Science in Computer Science in 2023 and a Bachelor of Science in Mechanical Engineering in 2020 from the University of Arkansas, Fayetteville with *Summa Cum Laude*.
 
 - My research interests focus on deep learning and robotics. In particular, I am interested in human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
 
-- Fun fact: I personally own Go1 Edu by Unitree as my pet. 
+- I personally own Go1 Edu by Unitree as my pet. 
 
 Recent News
 ======
