@@ -18,17 +18,17 @@ author_profile: true
 
 ## Certifications
 
-* Certified Associate - Mechanical Design (CSWA), [C-E68HURZWN4](/files/CSWA_kyamazak_email_uark_edu.pdf), 2017. 
+* Certified Associate - Mechanical Design (CSWA), [C-E68HURZWN4](/files/CSWA_kyamazak_email_uark_edu.pdf), 2017.
 
 
 ## Academic Services
 
-### Conference Reviewer 
+### Conference Reviewer
 
-- The International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022.
+- The International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023, 2024.
 - The International Conference on Machine Learning (ICML), 2022.
 - IEEE International Conference on Image Processing (ICIP), 2022.
-- Conference on Association for the Advancement of Artificial Intelligence (AAAI), 2023.
+- Conference on Association for the Advancement of Artificial Intelligence (AAAI), 2023, 2024.
 
 ### Journal Reviewer
-- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
