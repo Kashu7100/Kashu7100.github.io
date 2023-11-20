@@ -7,7 +7,8 @@ author_profile: true
 
 ## Patents
 
-- Bai, M., Chen, Y., Liu, Y., Li, Y., and Yamazaki, K., Soft Robotic Laparoscope for Minimally Invasive Intraperitoneal Photodynamic Therapy, USPTO, U.S. Provisional Patent Application No. 62/967,825, 2020.
+- Bai, M., Chen, Y., Liu, Y., Li, Y., and Yamazaki, K., Soft Robotic Laparoscope for Minimally Invasive
+  Intraperitoneal Photodynamic Therapy, USPTO, U.S. Provisional Patent Application No. 62/967,825, 2020.
 
 ## Awards
 
