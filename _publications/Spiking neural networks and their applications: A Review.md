@@ -1,7 +1,7 @@
 ---
 title: "Spiking neural networks and their applications: A Review"
 image: "/images/pubpic/kashu_bc22.png"
-link: https://www.mdpi.com/2076-3425/12/7/863/pdf?version=1656571240
+link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9313413/
 github: 
 authors: "<b>K. Yamazaki</b>, K. Vo-Ho, D. Bulsara, N. Le"
 collection: publications
