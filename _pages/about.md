@@ -21,14 +21,15 @@ This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 fr
 Recent News
 ======
 - Aug 3, 2023. Obtained MS from the University of Arkansas. 
-- Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/).
+- Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
 - Apr 7, 2023. One co-authored paper has been accepted to [CVPRW 2023](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1). 
 - Nov 18 2022. First author paper has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) for **Oral Presentation**.
 - Oct 2, 2022. One co-authored manuscript has been accepted to [IJCV](https://www.springer.com/journal/11263).
 - Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
-- Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/).
+- Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/) for **Oral Presentation**.
 - Oct 4, 2021. One co-authored paper has been accepted to [BMVC 2021](https://www.bmvc2021-virtualconference.com/) for **Oral Presentation**.
+<!--
 - Jun 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
 - Jan 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
 - Dec 18, 2020. Obtained BS from the University of Arkansas with *Summa Cum Laude*. 
@@ -37,3 +38,4 @@ Recent News
 - Nov 28, 2017. Received [CSWA](/files/CSWA_kyamazak_email_uark_edu.pdf) in mechanical design.
 - Aug 22, 2016. Started school at the University of Arkansas, Fayetteville.
 - Aug 2014. Joined Summer Program at Harvard University.
+-->
