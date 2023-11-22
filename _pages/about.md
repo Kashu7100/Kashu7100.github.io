@@ -20,6 +20,7 @@ This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 fr
 
 Recent News
 ======
+
 <!--
 - Aug 3, 2023. Obtained MS from the University of Arkansas. 
 -->
@@ -31,6 +32,7 @@ Recent News
 - Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
 - Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/) for **Oral Presentation**.
 - Oct 4, 2021. One co-authored paper has been accepted to [BMVC 2021](https://www.bmvc2021-virtualconference.com/) for **Oral Presentation**.
+
 <!--
 - Jun 2021. Served as a TA for Google Applied Machine Learning Intensive (AMLI).
 - Jan 11, 2021. Joined [AICV lab](https://uark-aicv.github.io/) as a research assistant.
