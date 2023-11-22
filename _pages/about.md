@@ -16,6 +16,8 @@ Concurrently, I am serving as a visiting researcher at the [Machine Learning for
 My academic journey includes a Master's degree in Computer Science, conferred in 2023, with a research focus on vision-and-language integration, mentored by Dr. [Ngan Le](https://www.nganle.net/). 
 This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors).
 
+<p style="color:red;">I am currently looking for a Ph.D. position starting in Fall 2024!</p>
+
 Recent News
 ======
 - Aug 3, 2023. Obtained MS from the University of Arkansas. 
