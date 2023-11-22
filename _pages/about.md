@@ -10,13 +10,11 @@ redirect_from:
 
 About Me
 ======
-- I am a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. Previously, I was advised by Dr. [Yue Chen](https://bme.gatech.edu/bme/faculty/Yue-Chen) in the Mechanical Engineering Department. 
+I am a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. 
+Concurrently, I am serving as a visiting researcher at the [Machine Learning for Signal Processing Group](http://mlsp.cs.cmu.edu/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), within the Language Technologies Institute at Carnegie Mellon University.
 
-- I received a Master of Science in Computer Science in 2023 and a Bachelor of Science in Mechanical Engineering in 2020 from the University of Arkansas, Fayetteville with *Summa Cum Laude*.
-
-- My research interests focus on deep learning and robotics. In particular, I am interested in human/animal intelligence and locomotion, and replicating the intelligent behavior in machines.
-
-- I personally own Go1 Edu by Unitree as my pet. 
+My academic journey includes a Master's degree in Computer Science, conferred in 2023, with a research focus on vision-and-language integration, mentored by Dr. [Ngan Le](https://www.nganle.net/). 
+This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors).
 
 Recent News
 ======
