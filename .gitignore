@@ -1,2 +1,5 @@
 _site/
-
+.bundle*
+.DS_Store
+Gemfile
+Gemfile.lock

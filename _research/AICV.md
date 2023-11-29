@@ -10,6 +10,11 @@ date: 2020-01-01
 location: "Fayetteville, AR"
 ---
 
+
+## Vision and Language Grounding for Robotics
+
+coming soon...
+
 ## Explainable Representation Learning for Video Understanding
 
 Extracting contextual visual representation from untrimmed videos is challenging due to their long and complex temporal structure. While existing approaches typically rely on pre-trained backbone networks to extract visual representation, we take a different approach, focusing on extracting the most contextual information in an explainable manner. 
@@ -25,9 +30,9 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 ### Application in Captioning
 
 <center>
-<img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
+<!-- <img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0"> -->
 
-<!-- <div class="slideshow-container">
+<div class="slideshow-container">
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
@@ -51,7 +56,7 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
-</div> -->
+</div>
 </center> 
 
 Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video in coherent storytelling given the event boundaries. Given an untrimmed video $\mathcal{V}$ and event boundaries $a_i = (s_i, e_i) \|_{i=1}^{M}$, our goal is to generate a coherent paragraph $\mathcal{P}$ with $M$ sentences that describes the whole video $\mathcal{V}$. 
@@ -91,11 +96,6 @@ We evaluate our learnt policies on a real Unitree Go1 robot. We find that our po
 <!-- ## Utilizing LLMs for Robotics
 
 Large language models (LLMs)  -->
-
-
-## Vision and Language Grounding for Robotic Perception and Policy Generation
-
-coming soon...
 
 ## Memory Efficient Model for Medical Imaging
 ![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="320"}
