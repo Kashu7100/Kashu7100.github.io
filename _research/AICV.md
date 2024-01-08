@@ -28,15 +28,10 @@ Temporal action proposal generation (TAPG) is a challenging task, which requires
 Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 and THUMOS-14 datasets show that our proposed [AOE-Net](https://link.springer.com/article/10.1007/s11263-022-01702-9) outperforms previous state-of-the-art methods with remarkable performance and generalization for both TAPG and temporal action detection.
 
 ### Application in Captioning
+<center>
+<img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
+<center>
 
-<img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="380" style="border-radius:10px; float: right; margin:10px 10px 10px 10px">
-
-<!-- <center>
->>>>>>> 6aef92aaba175067d954865e7a2d4bdf9896f3bf
-
-<!-- <img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0"> -->
-<!-- <center>
-<img src="/images/aicvpic/vltint_vpc_demo1.gif"  style="border-radius:10px;">
 
 </center> -->
 

@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, PA"
   cv               : "https://kashu7100.github.io/files/CV-1.pdf"
   employer         :
-  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TF2LRvMAAAAJ"
   email            : "kyamazak@andrew.cmu.edu"
   researchgate     : "https://www.researchgate.net/profile/Kashu_Yamazaki"
@@ -101,13 +101,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :  #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "kashu-y-51a62b128"
   orcid            : "https://orcid.org/0000-0001-6569-6860"
   pinterest        :
   soundcloud       :
-  stackoverflow    :  #"http://stackoverflow.com/users/123456/username"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :  #"replacethistwitterhandle"
