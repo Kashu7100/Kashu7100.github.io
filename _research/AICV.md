@@ -30,39 +30,7 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 ### Application in Captioning
 <center>
 <img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
-<center>
-
-
-</center> -->
-
-![image](/images/aicvpic/vltint_vpc_demo1.gif){: style="float: right; margin:10px 10px 10px 10px" width="38c0" }
-
-<!-- <div class="slideshow-container">
-
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="/images/aicvpic/vltint_vpc_demo2.gif" style="border-radius:10px;">
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="/images/aicvpic/vltint_vpc_demo3.gif" style="border-radius:10px;">
-  </div>
-
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
-</center>  -->
+</center>
 
 Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video in coherent storytelling given the event boundaries. Given an untrimmed video $\mathcal{V}$ and event boundaries $a_i = (s_i, e_i) \|_{i=1}^{M}$, our goal is to generate a coherent paragraph $\mathcal{P}$ with $M$ sentences that describes the whole video $\mathcal{V}$.
 
