@@ -4,7 +4,7 @@ collection: research
 type: "Research Assistant"
 topic: "robotics, computer vision"
 permalink: /research/AICV
-image: "/images/uark_logo.jpg" 
+image: "/images/uark_logo.jpg"
 venue: "University of Arkansas, Computer Science and Computer Engineering"
 date: 2020-01-01
 location: "Fayetteville, AR"
@@ -17,7 +17,7 @@ coming soon...
 
 ## Explainable Representation Learning for Video Understanding
 
-Extracting contextual visual representation from untrimmed videos is challenging due to their long and complex temporal structure. While existing approaches typically rely on pre-trained backbone networks to extract visual representation, we take a different approach, focusing on extracting the most contextual information in an explainable manner. 
+Extracting contextual visual representation from untrimmed videos is challenging due to their long and complex temporal structure. While existing approaches typically rely on pre-trained backbone networks to extract visual representation, we take a different approach, focusing on extracting the most contextual information in an explainable manner.
 
 ### Application in Action Proposal
 <!-- <a href="url"><img src="/images/aicvpic/tapg.png" height="auto" width="400" style="border-radius:5%; float: right; margin:0 10px 10px 0"></a> -->
@@ -29,6 +29,10 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 
 ### Application in Captioning
 
+<img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="380" style="border-radius:10px; float: right; margin:10px 10px 10px 10px">
+
+<!-- <center>
+>>>>>>> 6aef92aaba175067d954865e7a2d4bdf9896f3bf
 
 <!-- <img src="/images/aicvpic/vltint_vpc_demo1.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0"> -->
 <!-- <center>
@@ -57,7 +61,7 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div> 
+</div>
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
@@ -65,14 +69,14 @@ Comprehensive experiments and extensive ablation studies on ActivityNet−1.3 an
 </div>
 </center>  -->
 
-Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video in coherent storytelling given the event boundaries. Given an untrimmed video $\mathcal{V}$ and event boundaries $a_i = (s_i, e_i) \|_{i=1}^{M}$, our goal is to generate a coherent paragraph $\mathcal{P}$ with $M$ sentences that describes the whole video $\mathcal{V}$. 
+Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video in coherent storytelling given the event boundaries. Given an untrimmed video $\mathcal{V}$ and event boundaries $a_i = (s_i, e_i) \|_{i=1}^{M}$, our goal is to generate a coherent paragraph $\mathcal{P}$ with $M$ sentences that describes the whole video $\mathcal{V}$.
 
 We proposed an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video.
-Comprehensive experiments and extensive ablation studies on ActivityNet Captions and YouCookII datasets show that the proposed Visual-Linguistic Transformer-in-Transform ([VLTinT](https://uark-aicv.github.io/VLTinT/)) outperforms prior state-of-the-art methods on both accuracy and diversity. 
+Comprehensive experiments and extensive ablation studies on ActivityNet Captions and YouCookII datasets show that the proposed Visual-Linguistic Transformer-in-Transform ([VLTinT](https://uark-aicv.github.io/VLTinT/)) outperforms prior state-of-the-art methods on both accuracy and diversity.
 
 ## Open Vocabulary Models for Semantic Understanding
 
-Open vocabulary recognition has recently attracted a lot of attention in computer vision as it allows to perform language-conditioned unbounded understanding. 
+Open vocabulary recognition has recently attracted a lot of attention in computer vision as it allows to perform language-conditioned unbounded understanding.
 
 <center>
 <a href="/images/openvoc1.png"><img src="/images/openvoc1.png" height="auto" width="230" style="border-radius:10px; float: center; margin:0 10px 10px 0"></a>
@@ -85,13 +89,13 @@ Open vocabulary recognition has recently attracted a lot of attention in compute
 
 While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. We utilize a reinforcement learning and representation learning to acquire the high-agility locomotion skills for quadrupeds.
 
-### Massively Parallel Reinforcement Learning 
+### Massively Parallel Reinforcement Learning
 
 <center>
 <img src="/images/aicvpic/go1_isaac_gym.gif" height="auto" width="500" style="border-radius:10px; float: center; margin:0 10px 10px 0">
 </center>
 
-Here we use massively parallel RL to train a quadruped to walk on various terrains. In the simulation, a quadruped learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands. 
+Here we use massively parallel RL to train a quadruped to walk on various terrains. In the simulation, a quadruped learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
 We evaluate our learnt policies on a real Unitree Go1 robot. We find that our policies trained entirely in simulation are able to transfer to the real world zero-shot.
 
 <center>
@@ -105,7 +109,7 @@ Large language models (LLMs)  -->
 
 ## Memory Efficient Model for Medical Imaging
 ![image](/images/aicvpic/rev_brain_tumor.png){: style="float: right; margin:0 10px 10px 0" width="320"}
-In medical imaging, we frequently work with volumetric data, which can be challenging to process computationally. To tackle this issue, we have developed a fully invertible residual network that utilizes bijective operations to reduce the memory footprint during training. Our volume-preserving approach has proven to be highly effective in reducing memory demands during training. By implementing this technique, we have successfully reduced memory requirements by approximately 50% compared to the baseline model, without compromising the performance. 
+In medical imaging, we frequently work with volumetric data, which can be challenging to process computationally. To tackle this issue, we have developed a fully invertible residual network that utilizes bijective operations to reduce the memory footprint during training. Our volume-preserving approach has proven to be highly effective in reducing memory demands during training. By implementing this technique, we have successfully reduced memory requirements by approximately 50% compared to the baseline model, without compromising the performance.
 
 
 <script>
