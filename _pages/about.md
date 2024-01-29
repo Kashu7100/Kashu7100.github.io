@@ -21,7 +21,7 @@ This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 fr
 Recent News
 ======
 
-- Jan 29 2024. First author paper has been accepted to ICRA 2024 for **Oral Presentation**.
+- Jan 29 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
 - Apr 7, 2023. One co-authored paper has been accepted to [CVPRW 2023](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1). 
