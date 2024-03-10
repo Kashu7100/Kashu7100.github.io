@@ -16,12 +16,12 @@ Concurrently, I am serving as a visiting researcher at the [Machine Learning for
 My academic journey includes a Master's degree in Computer Science, conferred in 2023, with a research focus on vision-and-language integration, mentored by Dr. [Ngan Le](https://www.nganle.net/). 
 This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors).
 
-<p style="color:red;">I am currently looking for a Ph.D. position starting in Fall 2024!</p>
 
 Recent News
 ======
 
-- Jan 29 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
+- Feb 2, 2024. Accepted to the LTI Ph.D. program offered by CMU's School of Computer Science!
+- Jan 29, 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
 - Apr 7, 2023. One co-authored paper has been accepted to [CVPRW 2023](https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1). 
