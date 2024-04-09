@@ -20,7 +20,8 @@ This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 fr
 Recent News
 ======
 
-- Feb 2, 2024. Accepted to the LTI Ph.D. program offered by CMU's School of Computer Science!
+- Apr 9, 2024. An extended abstract for *OpenFusion* has been accepted at [CVPRW 2024](https://opensun3d.github.io/)!
+- Feb 2, 2024. Accepted to the Ph.D. program offered by **CMU**'s School of Computer Science!
 - Jan 29, 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
