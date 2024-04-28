@@ -14,12 +14,13 @@ I am a research associate at the [AICV lab](https://uark-aicv.github.io/) led by
 Concurrently, I am serving as a visiting researcher at the [Machine Learning for Signal Processing Group](http://mlsp.cs.cmu.edu/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), within the Language Technologies Institute at Carnegie Mellon University.
 
 My academic journey includes a Master's degree in Computer Science, conferred in 2023, with a research focus on vision-and-language integration, mentored by Dr. [Ngan Le](https://www.nganle.net/). 
-This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors).
+This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors: top 1-5%).
 
 
 Recent News
 ======
 
+- Apr 9, 2024. An extended abstract for *OpenFusion* has been accepted at [CVPRW 2024](https://opensun3d.github.io/)!
 - Feb 2, 2024. Accepted to the Ph.D. program offered by **School of Computer Science at CMU**!
 - Jan 29, 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
