@@ -20,7 +20,7 @@ This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 fr
 Recent News
 ======
 
-- Feb 2, 2024. Accepted to the LTI Ph.D. program offered by CMU's School of Computer Science!
+- Feb 2, 2024. Accepted to the Ph.D. program offered by **School of Computer Science at CMU**!
 - Jan 29, 2024. First author paper has been accepted to [ICRA 2024](https://2024.ieee-icra.org/) for **Oral Presentation**.
 - Jun 21, 2023. One co-authored paper has been accepted to [ICIP 2023](https://2023.ieeeicip.org/) for **Oral Presentation**.
 - Apr 11, 2023. First author paper has been selected as **Editor’s Choice Articles** by [Brain Science](https://www.mdpi.com/2076-3425/12/7/863). 
@@ -30,6 +30,11 @@ Recent News
 - Oct 2, 2022. One co-authored paper has been accepted to [BMVC 2022](https://bmvc2022.org/).
 - Jun 20, 2022. First author paper has been accepted to [ICIP 2022](https://2022.ieeeicip.org/) for **Oral Presentation**.
 - Oct 4, 2021. One co-authored paper has been accepted to [BMVC 2021](https://www.bmvc2021-virtualconference.com/) for **Oral Presentation**.
+
+
+Contact
+======
+You can send me an email (`kyamazak at andrew.cmu.edu`) or DM me on LinkedIn. Depending on my current workload, I might overlook your message. If you do not get reply from me in one week please send me a reminder. *アメリカの博士課程に進学を考えている日本人学生の方は気軽に連絡ください!*
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kashuyamazk" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
