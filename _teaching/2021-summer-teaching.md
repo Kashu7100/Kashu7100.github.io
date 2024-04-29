@@ -5,7 +5,7 @@ type: "Teaching Assistant"
 subject: "Entry-level introduction to machine learning"
 permalink: /teaching/2021-summer-teaching
 image: "/images/GoogleEdLogo.png" 
-venue: "University of Arkansas and Google"
+venue: "Google Education and NACME"
 date: 2021-06-07
 location: "Fayetteville, AR"
 ---
