@@ -1,5 +1,5 @@
 ---
-title: "MEEG 2003"
+title: "MEEG 2003 Statics"
 collection: teaching
 type: "Teaching Assistant"
 subject: "Statics"
