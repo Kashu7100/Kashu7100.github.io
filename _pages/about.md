@@ -22,19 +22,19 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 9, 2024.</strong> An extended abstract for <em>OpenFusion</em> has been accepted at <a href="https://opensun3d.github.io/">CVPRW 2024</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2024.</strong> Accepted to the Ph.D. program offered by <a href="https://www.lti.cs.cmu.edu/academics/phd-programs/phd-lti.html">Language Technologies Institute at CMU</a>!</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 29, 2024.</strong> First author paper has been accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a> for <strong>Oral Presentation</strong>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 21, 2023.</strong> One co-authored paper has been accepted to <a href="https://2023.ieeeicip.org/">ICIP 2023</a> for <strong>Oral Presentation</strong>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 11, 2023.</strong> First author paper has been selected as <strong>Editor’s Choice Articles</strong> by <a href="https://www.mdpi.com/2076-3425/12/7/863">Brain Science</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 7, 2023.</strong> One co-authored paper has been accepted to <a href="https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1">CVPRW 2023</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 18, 2022.</strong> First author paper has been accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> for <strong>Oral Presentation</strong>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 2, 2022.</strong> One co-authored manuscript has been accepted to <a href="https://www.springer.com/journal/11263">IJCV</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 2, 2022.</strong> One co-authored paper has been accepted to <a href="https://bmvc2022.org/">BMVC 2022</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 20, 2022.</strong> First author paper has been accepted to <a href="https://2022.ieeeicip.org/">ICIP 2022</a> for <strong>Oral Presentation</strong>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 4, 2021.</strong> One co-authored paper has been accepted to <a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a> for <strong>Oral Presentation</strong>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 30, 2017.</strong> Initiated as a member of <a href="https://www.tbp.org/recruit/recruitHome.cfm">Tau Beta Pi</a>, the Engineering Honor Society.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 28, 2017.</strong> Received <a href="/files/CSWA_kyamazak_email_uark_edu.pdf">CSWA</a> in mechanical design.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 9, 2024.</strong> 🍺 An extended abstract for <a href="https://uark-aicv.github.io/OpenFusion/">OpenFusion</a> has been accepted at <a href="https://opensun3d.github.io/">CVPRW 2024</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2024.</strong> 🎉 Accepted to the Ph.D. program offered by <a href="https://www.lti.cs.cmu.edu/academics/phd-programs/index.html">Language Technologies Institute at CMU</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 29, 2024.</strong> 🍺 First author paper has been accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 21, 2023.</strong> 🍻 One co-authored paper has been accepted to <a href="https://2023.ieeeicip.org/">ICIP 2023</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 11, 2023.</strong> 🍺 First author paper has been selected as <strong>Editor’s Choice Articles</strong> by <a href="https://www.mdpi.com/2076-3425/12/7/863">Brain Science</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 7, 2023.</strong> 🍻 One co-authored paper has been accepted to <a href="https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1">CVPRW 2023</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 18, 2022.</strong> 🍺 First author paper has been accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 2, 2022.</strong> 🍻 One co-authored manuscript has been accepted to <a href="https://www.springer.com/journal/11263">IJCV</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 2, 2022.</strong> 🍻 One co-authored paper has been accepted to <a href="https://bmvc2022.org/">BMVC 2022</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 20, 2022.</strong> 🍺 First author paper has been accepted to <a href="https://2022.ieeeicip.org/">ICIP 2022</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 4, 2021.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 30, 2017.</strong> 🍷 Initiated as a member of <a href="https://www.tbp.org/recruit/recruitHome.cfm">Tau Beta Pi</a>, the Engineering Honor Society.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 28, 2017.</strong> ✍️ Received <a href="/files/CSWA_kyamazak_email_uark_edu.pdf">CSWA</a> in mechanical design.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 22, 2016.</strong> Started school at the University of Arkansas.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 2014.</strong> Joined Summer Program at Harvard University.</li>
     </ul>
