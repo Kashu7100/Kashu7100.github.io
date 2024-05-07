@@ -33,6 +33,7 @@ author_profile: true
 - IEEE International Conference on Image Processing (ICIP), 2022.
 
 ### Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - ISA Transactions
 
