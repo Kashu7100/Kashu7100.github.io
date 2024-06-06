@@ -38,7 +38,7 @@ author_profile: true
 - ISA Transactions
 
 ### Mentoring
-- Taisei Hanyu
+- [Taisei Hanyu](https://thanyu-hub.github.io/)
 - Michael Ofodile
 - Hayden Threlfall
 - Brady Morgan
