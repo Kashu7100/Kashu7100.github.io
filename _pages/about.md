@@ -10,11 +10,13 @@ redirect_from:
 
 About Me
 ======
-I am a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. 
-Concurrently, I am serving as a visiting researcher at the [MLSP Group](https://cmu-mlsp.github.io/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), within the Language Technologies Institute at Carnegie Mellon University.
+I am a Ph.D. student at the [MLSP Group](https://cmu-mlsp.github.io/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) and Dr. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/), within the Language Technologies Institute at Carnegie Mellon University.
 
-My academic journey includes a Master's degree in Computer Science, conferred in 2023, with a research focus on vision-and-language integration, advised by Dr. [Ngan Le](https://www.nganle.net/). 
-This followed a Bachelor's degree in Mechanical Engineering, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors: top 1-5%).
+My interests are: Multimodal AI / Embodied AI / Robot Learning
+
+Previously, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. 
+My past academic journey includes a Master's degree in *Computer Science*, conferred in 2023, with a research focus on vision-and-language integration, advised by Dr. [Ngan Le](https://www.nganle.net/). 
+This followed a Bachelor's degree in *Mechanical Engineering*, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors: top 1-5%).
 
 
 Recent News
