@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Ph.D. student at the [MLSP Group](https://cmu-mlsp.github.io/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) and Dr. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/), within the Language Technologies Institute at Carnegie Mellon University.
+I am a Ph.D. student at the [MLSP Group](https://cmu-mlsp.github.io/), led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) and Dr. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/), at the Language Technologies Institute, School of Computer Science, Carnegie Mellon University.
 
 My interests are: Multimodal AI / Embodied AI / Robot Learning
 
