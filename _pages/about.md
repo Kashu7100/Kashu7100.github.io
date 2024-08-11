@@ -24,6 +24,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 9, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.mdpi.com/2072-4292/16/16/2930">Remote Sensing</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jul 1, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://eccv2024.ecva.net/Conferences/2024/AcceptedPapers">ECCV 2024</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 25, 2024.</strong> 🍺 First author paper has been selected as <strong>Best Paper Award</strong> by <a href="https://www.mdpi.com/journal/brainsci/awards/2473">Brain Science</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 9, 2024.</strong> 🍺 An extended abstract for <a href="https://uark-aicv.github.io/OpenFusion/">OpenFusion</a> has been accepted at <a href="https://opensun3d.github.io/">CVPRW 2024</a>.</li>
