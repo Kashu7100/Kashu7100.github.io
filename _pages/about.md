@@ -14,8 +14,7 @@ I am a Ph.D. student at the [MLSP Group](https://cmu-mlsp.github.io/), led by Dr
 
 My interests are: Multimodal AI / Embodied AI / Robot Learning
 
-Previously, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://www.nganle.net/) at the University of Arkansas, Fayetteville. 
-My past academic journey includes a Master's degree in *Computer Science*, conferred in 2023, with a research focus on vision-and-language integration, advised by Dr. [Ngan Le](https://www.nganle.net/). 
+Previously, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) at the University of Arkansas, Fayetteville. My past academic journey includes a Master's degree in *Computer Science*, conferred in 2023, with a research focus on vision-and-language integration, advised by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le). 
 This followed a Bachelor's degree in *Mechanical Engineering*, achieved in 2020 from the same institution, where I graduated *Summa Cum Laude* (highest honors: top 1-5%).
 
 
