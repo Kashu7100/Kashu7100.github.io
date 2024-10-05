@@ -14,7 +14,7 @@ I am a Ph.D. student in the Language Technologies Institute, School of Computer 
 
 My interests are: Multimodal AI / Embodied AI / Robot Learning
 
-Prior to my Ph.D. studies, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le) at the University of Arkansas, and a visiting scholar at the [MLSP Group](https://cmu-mlsp.github.io/) led by Dr. [Bhiksha Raj](http://mlsp.cs.cmu.edu/team/bhiksha/) and Dr. [Rita Singh](https://www.cylab.cmu.edu/directory/bios/singh-rita.html) at Carnegie Mellon University. I hold a Master’s degree in Computer Science (2023) from the University of Arkansas, advised by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le). Before that, I earned a Bachelor’s degree in Mechanical Engineering (2020), graduating Summa Cum Laude (highest honors: top 1-5%), also from the University of Arkansas.
+Prior to my Ph.D. studies, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le) at the University of Arkansas, and a visiting scholar at the [MLSP Group](https://cmu-mlsp.github.io/) led by Dr. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) and Dr. [Rita Singh](https://www.cylab.cmu.edu/directory/bios/singh-rita.html) at Carnegie Mellon University. I hold a Master’s degree in Computer Science (2023) from the University of Arkansas, advised by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le). Before that, I earned a Bachelor’s degree in Mechanical Engineering (2020), graduating Summa Cum Laude (highest honors: top 1-5%), also from the University of Arkansas.
 
 
 Recent News
@@ -22,6 +22,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Sep 25, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 9, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.mdpi.com/2072-4292/16/16/2930">Remote Sensing</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jul 1, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://eccv2024.ecva.net/Conferences/2024/AcceptedPapers">ECCV 2024</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 25, 2024.</strong> 🍺 First author paper has been selected as <strong>Best Paper Award</strong> by <a href="https://www.mdpi.com/journal/brainsci/awards/2473">Brain Science</a>.</li>
