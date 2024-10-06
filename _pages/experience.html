@@ -10,7 +10,21 @@ author_profile: true
 <h2 class="archive__item-title" itemprop="headline"> Research </h2>
 <hr>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
-  <tbody><tr>
+  <tbody>
+  <tr>
+    <td style="padding:5px;width:20%;horizontal-align:middle">
+      <p align="center">
+        <img src="https://www.cmu.edu/real/images/logo/real_claw-red-circle.png" width="90"/>
+      </p>
+    </td>
+    <td style="padding:5px;width:80%">
+        <b><a class="pub1" href="https://www.cmu.edu/real/index.html" rel="permalink">
+          Center for Robotics, Embodied AI and Learning (REAL)</a></b>
+        <br><p><a class="pub2"> Advised by: Dr. <a href="https://www.cs.cmu.edu/~katef/" rel="permalink">
+          Katerina Fragkiadaki</a></a> </p>
+    </td>
+  </tr>
+  <tr>
     <td style="padding:5px;width:20%;horizontal-align:middle">
       <p align="center">
         <img src="https://cmu-mlsp.github.io/images/logopic/mlsp-logo.png" width="90"/>
@@ -19,7 +33,8 @@ author_profile: true
     <td style="padding:5px;width:80%">
         <b><a class="pub1" href="https://cmu-mlsp.github.io/" rel="permalink">
           Machine Learning for Signal Processing Group</a></b>
-        <br><p><a class="pub2"> <i>Carnegie Mellon University, LTI</i>, 2023</a> </p>
+        <br><p><a class="pub2"> Advised by: Dr. <a href="https://cmu-mlsp.github.io/team/bhiksha_raj" rel="permalink">
+          Bhiksha Raj</a></a> </p>
     </td>
   </tr>
   <tr>
@@ -31,7 +46,8 @@ author_profile: true
       <td style="padding:5px;width:80%">
           <b><a class="pub1" href="https://uark-aicv.github.io/" rel="permalink">
             Artificial Intelligence and Computer Vision Lab</a></b>
-          <br><p><a class="pub2"> <i>University of Arkansas, EECS</i>, 2020</a> </p>
+          <br><p><a class="pub2"> Advised by: Dr. <a href="https://uark-aicv.github.io/team/ngan_le" rel="permalink">
+          Ngan Le</a></a> </p>
       </td>
     </tr></tbody>
 </table>
@@ -64,21 +80,6 @@ author_profile: true
 
 <h2 class="archive__item-title" itemprop="headline"> Teaching </h2>
 <hr>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:collapse;margin-right:auto;">
-  <tbody><tr>
-      <td style="padding:5px;width:20%;horizontal-align:middle">
-        <p align="center">
-          <img src="https://www.cmu.edu/brand/brand-guidelines/images/seal-4c-600x600-min.jpg" width="90"/>
-        </p>
-      </td>
-      <td style="padding:5px;width:80%">
-          <b><a class="pub1" href="https://cmu-mlsp.github.io/11-775/" rel="permalink">11.775 Large-Scale Multimedia Analysis</a></b>
-          <br><p><a class="pub2"> <i>CMU LTI</i>, 2024</a> 
-          <br>Large-Scale Multimedia Analysis</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
 {% for post in site.teaching reversed %}
   {% if post.type == 'Teaching Assistant' %}
     {% include archive-single.html %}
