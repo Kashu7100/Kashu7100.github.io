@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Ph.D. student in the Language Technologies Institute, School of Computer Science, at Carnegie Mellon University, advised by Dr. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) at [Robotics, Embodied AI and Learning (REAL)](https://www.cmu.edu/real/research/index.html). 
+I am a Ph.D. student in the Language Technologies Institute, School of Computer Science, at Carnegie Mellon University, advised by Dr. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) at [Robotics, Embodied AI and Learning (REAL)](https://www.cmu.edu/real/research/index.html) Center. 
 
 My interests are: Multimodal AI / Embodied AI / Robot Learning
 
