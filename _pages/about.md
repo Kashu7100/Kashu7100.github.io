@@ -10,12 +10,11 @@ redirect_from:
 
 About Me
 ======
-I am a Ph.D. student in the Language Technologies Institute, School of Computer Science, at Carnegie Mellon University, advised by Dr. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) at [Robotics, Embodied AI and Learning (REAL)](https://www.cmu.edu/real/research/index.html) Center. 
+I am a Ph.D. student at Carnegie Mellon University's Language Technologies Institute, School of Computer Science, where I am advised by Dr. [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/) within the [Robotics, Embodied AI and Learning (REAL)](https://www.cmu.edu/real/research/index.html) Center.
 
 My interests are: Multimodal AI / Embodied AI / Robot Learning
 
-Prior to my Ph.D. studies, I was a research associate at the [AICV lab](https://uark-aicv.github.io/) led by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le) at the University of Arkansas, and a visiting scholar at the [MLSP Group](https://cmu-mlsp.github.io/) led by Dr. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) and Dr. [Rita Singh](https://www.cylab.cmu.edu/directory/bios/singh-rita.html) at Carnegie Mellon University. I hold a Master’s degree in Computer Science (2023) from the University of Arkansas, advised by Dr. [Ngan Le](https://uark-aicv.github.io/team/ngan_le). Before that, I earned a Bachelor’s degree in Mechanical Engineering (2020), graduating Summa Cum Laude (highest honors: top 1-5%), also from the University of Arkansas.
-
+Before beginning my Ph.D., I worked as a research associate at the [AICV lab](https://uark-aicv.github.io/) under [Ngan Le](https://uark-aicv.github.io/team/ngan_le) at the University of Arkansas and served as a visiting scholar with the [MLSP Group](https://cmu-mlsp.github.io/) led by Dr. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) at Carnegie Mellon. I hold a Master’s in Computer Science (2023) from the University of Arkansas, where Dr. Ngan Le also supervised my research. Prior to that, I graduated Summa Cum Laude (top 1-5%) with a Bachelor’s degree in Mechanical Engineering (2020), also from the University of Arkansas.
 
 Recent News
 ======
