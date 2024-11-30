@@ -47,6 +47,6 @@ Recent News
 
 Contact
 ======
-You can send me an email (`kyamazak at andrew.cmu.edu`) or DM me on LinkedIn. Depending on my current workload, I might overlook your message. If you do not get reply from me in one week please send me a reminder. I am open to any research collaboration, feel free to drop by. *アメリカの博士課程に進学を考えている日本人学生の方は出願の相談など気軽に連絡ください!*
+You can send me an email (`kyamazak at andrew.cmu.edu`) or DM me on LinkedIn. Depending on my current workload, I might overlook your message. If you do not get reply from me in one week please send me a reminder. I am open to any research collaboration, feel free to drop by. *CS博士課程に進学を考えている方は出願の相談などお気軽に連絡ください!*
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="kashuyamazk" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
