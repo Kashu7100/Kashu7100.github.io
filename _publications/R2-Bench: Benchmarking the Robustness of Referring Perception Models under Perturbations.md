@@ -6,7 +6,7 @@ github: https://github.com/lxa9867/r2bench
 authors: "X. Li, K. Qiu, J. Wang, X. Xu, R. Singh, <b>K. Yamazaki</b>, H. Chen, X. Huang, B. Raj"
 collection: publications
 permalink: /publication/r2bench
-type: "conference"
+type: "conference paper"
 publication: "European Conference on Computer Vision (ECCV)"
 year: "2024"
 date: 2024-3-01
