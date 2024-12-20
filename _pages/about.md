@@ -21,6 +21,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+      　<li style="margin-top: 5px; margin-bottom: 5px;"><strong>Dec 18, 2024.</strong> 📢 <a href="https://genesis-embodied-ai.github.io/">Genesis</a> has been released 🎉🎉</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Sep 25, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>  for <strong>Poster Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 9, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.mdpi.com/2072-4292/16/16/2930">Remote Sensing</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jul 1, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://eccv2024.ecva.net/Conferences/2024/AcceptedPapers">ECCV 2024</a> for <strong>Poster Presentation</strong>.</li>
