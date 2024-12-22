@@ -32,6 +32,10 @@ jobs:
           source $GITHUB_ENV
           rbenv install 3.1.4
           rbenv global 3.1.4
+          echo 'export PATH="$HOME/.rbenv/shims:$PATH"' >> $GITHUB_ENV
+
+      - name: Verify Ruby Installation
+        run: ruby --version
 
       - name: Install Bundler
         run: gem install bundler
