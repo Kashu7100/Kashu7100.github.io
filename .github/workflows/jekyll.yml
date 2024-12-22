@@ -24,7 +24,7 @@ jobs:
       - name: Install Dependencies
         run: sudo apt-get update && sudo apt-get install -y libssl-dev zlib1g-dev build-essential curl git
 
-      - name: Install rbenv and Ruby 3.4.0
+      - name: Install rbenv and Ruby
         run: |
           # Install rbenv
           curl -fsSL https://github.com/rbenv/rbenv-installer/raw/main/bin/rbenv-installer | bash
@@ -33,9 +33,12 @@ jobs:
           echo 'eval "$(rbenv init - bash)"' >> $GITHUB_ENV
           source $GITHUB_ENV
           
+          # Update ruby-build to the latest version
+          git -C ~/.rbenv/plugins/ruby-build pull
+          
           # Install Ruby 3.4.0
-          rbenv install 3.4.0
-          rbenv global 3.4.0
+          rbenv install 3.4.0-rc1
+          rbenv global 3.4.0-rc1
 
       - name: Verify Ruby Installation
         run: ruby --version
