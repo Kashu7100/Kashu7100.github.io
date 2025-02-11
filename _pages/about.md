@@ -23,7 +23,7 @@ Recent News
     <ul style="list-style-type: disc; padding-left: 20px;">
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2025.</strong> 🎉 Achieved a total of <strong>1000 citations</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 16, 2025.</strong> 🎤 I gave an invited talk at AIC at Keio University. Thanks to Dr. <a href="https://www.st.keio.ac.jp/en/tprofile/ics/hideo.saito.html">Hideo Saito</a>.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Dec 18, 2024.</strong> 📢 <a href="https://genesis-embodied-ai.github.io/">Genesis</a> has been released 🎉🎉 We welcome contributions from everyone! </li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Dec 18, 2024.</strong> 📢 <a href="https://genesis-embodied-ai.github.io/">Genesis</a> has been released 🎉 We welcome contributions from everyone! </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Sep 25, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>  for <strong>Poster Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 9, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.mdpi.com/2072-4292/16/16/2930">Remote Sensing</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jul 1, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://eccv2024.ecva.net/Conferences/2024/AcceptedPapers">ECCV 2024</a> for <strong>Poster Presentation</strong>.</li>
@@ -31,6 +31,7 @@ Recent News
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 9, 2024.</strong> 🍺 An extended abstract for <a href="https://uark-aicv.github.io/OpenFusion/">OpenFusion</a> has been accepted at <a href="https://opensun3d.github.io/">CVPRW 2024</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2024.</strong> 🎉 Accepted to the Ph.D. program offered by <a href="https://www.lti.cs.cmu.edu/academics/phd-programs/index.html">Language Technologies Institute at CMU</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 29, 2024.</strong> 🍺 First author paper has been accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 15, 2023.</strong> 🎓 Obtained <strong>MSCS</strong> from the <a href="https://engineering.uark.edu/electrical-engineering-computer-science/">University of Arkansas</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 21, 2023.</strong> 🍻 One co-authored paper has been accepted to <a href="https://2023.ieeeicip.org/">ICIP 2023</a> for <strong>Oral Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 11, 2023.</strong> 🍺 First author paper has been selected as <strong>Editor’s Choice Articles</strong> by <a href="https://www.mdpi.com/2076-3425/12/7/863">Brain Science</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 7, 2023.</strong> 🍻 One co-authored paper has been accepted to <a href="https://sites.google.com/view/ieeecvf-cvpr2023-precognition/home?authuser=0&pli=1">CVPRW 2023</a>.</li>
@@ -40,10 +41,10 @@ Recent News
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 2, 2022.</strong> 🍻 One co-authored paper has been accepted to <a href="https://bmvc2022.org/">BMVC 2022</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 20, 2022.</strong> 🍺 First author paper has been accepted to <a href="https://2022.ieeeicip.org/">ICIP 2022</a> for <strong>Oral Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 4, 2021.</strong> 🍻 One co-authored paper has been accepted to <a href="https://www.bmvc2021-virtualconference.com/">BMVC 2021</a> for <strong>Oral Presentation</strong>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Dec 18, 2020.</strong> 🎓 Obtained <strong>BSME</strong> with <strong>Summa Cum Laude</strong> from the <a href="https://engineering.uark.edu/mechanical-engineering/">University of Arkansas</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 30, 2017.</strong> 🍷 Initiated as a member of <a href="https://www.tbp.org/recruit/recruitHome.cfm">Tau Beta Pi</a>, the Engineering Honor Society.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 28, 2017.</strong> ✍️ Received <a href="/files/CSWA_kyamazak_email_uark_edu.pdf">CSWA</a> in mechanical design.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 22, 2016.</strong> Started school at the University of Arkansas.</li>
-        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 2014.</strong> Joined Summer Program at Harvard University.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 2014.</strong> 🏫 Joined Summer Program at Harvard University.</li>
     </ul>
 </div>
 <br>
