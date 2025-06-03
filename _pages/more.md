@@ -39,6 +39,7 @@ author_profile: true
 
 ### Mentoring
 - [Taisei Hanyu](https://thanyu-hub.github.io/)
+- [Yash Jangir](https://offjangir.github.io/)
 - Michael Ofodile
 - Hayden Threlfall
 - Brady Morgan
