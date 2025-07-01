@@ -21,6 +21,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>May 20, 2025.</strong> 🦾 Joined <a href="https://genesis-ai.company/">Genesis AI</a> for the summer internship.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2025.</strong> 🎉 Achieved a total of <strong>1000 citations</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 16, 2025.</strong> 🎤 I gave an invited talk at AIC at Keio University. Thanks to Dr. <a href="https://www.st.keio.ac.jp/en/tprofile/ics/hideo.saito.html">Hideo Saito</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Dec 18, 2024.</strong> 📢 <a href="https://genesis-embodied-ai.github.io/">Genesis</a> has been released 🎉 We welcome contributions from everyone! </li>
