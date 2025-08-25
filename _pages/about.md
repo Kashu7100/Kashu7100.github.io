@@ -21,6 +21,8 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 24, 2025.</strong> 🎉 Selected for the <a href="https://forbesjapan.com/feat/30under30/2025/">Forbes Japan 30 Under 30</a> list in Science & Social.</li>
+      <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 24, 2025.</strong> 🎉 Achieved a total of <strong>1500 citations</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>May 20, 2025.</strong> 🦾 Joined <a href="https://genesis-ai.company/">Genesis AI</a> for the summer internship.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2025.</strong> 🎉 Achieved a total of <strong>1000 citations</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 16, 2025.</strong> 🎤 I gave an invited talk at AIC at Keio University. Thanks to Dr. <a href="https://www.st.keio.ac.jp/en/tprofile/ics/hideo.saito.html">Hideo Saito</a>.</li>
@@ -30,6 +32,7 @@ Recent News
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jul 1, 2024.</strong> 🍻 One co-authored paper has been accepted to <a href="https://eccv2024.ecva.net/Conferences/2024/AcceptedPapers">ECCV 2024</a> for <strong>Poster Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jun 25, 2024.</strong> 🍺 First author paper has been selected as <strong>Best Paper Award</strong> by <a href="https://www.mdpi.com/journal/brainsci/awards/2473">Brain Science</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Apr 9, 2024.</strong> 🍺 An extended abstract for <a href="https://uark-aicv.github.io/OpenFusion/">OpenFusion</a> has been accepted at <a href="https://opensun3d.github.io/">CVPRW 2024</a>.</li>
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Mar 30, 2024.</strong> 🎉 Achieved a total of <strong>500 citations</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 2, 2024.</strong> 🎉 Accepted to the Ph.D. program offered by <a href="https://www.lti.cs.cmu.edu/academics/phd-programs/index.html">Language Technologies Institute at CMU</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 29, 2024.</strong> 🍺 First author paper has been accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a> for <strong>Oral Presentation</strong>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 15, 2023.</strong> 🎓 Obtained <strong>MSCS</strong> from the <a href="https://engineering.uark.edu/electrical-engineering-computer-science/">University of Arkansas</a>.</li>
