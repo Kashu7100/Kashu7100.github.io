@@ -1,5 +1,5 @@
 ---
-title: "RobotArena infinity: Scalable Robot Benchmarking via Real-to-Sim Translation"
+title: "RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation"
 image: "/images/pubpic/robotarena.png"
 link: https://arxiv.org/abs/2510.23571
 github: https://robotarenainf.github.io/
