@@ -21,6 +21,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 27, 2025.</strong> 📢 <a href="https://robotarenainf.github.io/">RobotArena ∞</a> has been released 🎉 We welcome contributions from everyone! </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Oct 4, 2025.</strong> 🎤 I gave an invited talk at <a href="https://sainetwork.connpass.com/event/367769/">Spatial AI</a>. Thanks to Dr. <a href="https://sakuradaken.net/">Ken Sakurada</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 24, 2025.</strong> 🎉 Selected for the <a href="https://forbesjapan.com/feat/30under30/2025/">Forbes Japan 30 Under 30</a> list in Science & Social.</li>
       <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Aug 24, 2025.</strong> 🎉 Achieved a total of <strong>1500 citations</strong>.</li>
