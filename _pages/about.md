@@ -21,6 +21,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 31, 2026.</strong> 🍻 One co-authored paper has been accepted to <a href="https://2026.ieee-icra.org/">ICRA 2026</a>. </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 26, 2026.</strong> 🍻 RobotArena ∞ has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>. </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 9, 2026.</strong> 🎤 I gave an invited talk at <a href="https://www.aist.go.jp/aist_e/about_aist/">AIST</a>. Thanks to Dr. <a href="https://artilects.net/">Takuma Yagi</a>.</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Nov 7, 2025.</strong> 🍻 One co-authored paper has been accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>. </li>
