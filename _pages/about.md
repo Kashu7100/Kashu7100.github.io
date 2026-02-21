@@ -21,6 +21,7 @@ Recent News
 
 <div style="overflow-y: scroll; height: 200px; border: 0px; padding: 5px;">
     <ul style="list-style-type: disc; padding-left: 20px;">
+        <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 21, 2026.</strong> 🍻 One co-authored paper has been accepted to <a href="https://cvpr.thecvf.com/">CVPR 2026</a>. </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Feb 12, 2026.</strong> 📢 <a href="https://owenowl.github.io/extremcontrol/">ExtremControl</a> has been released 🎉</li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 31, 2026.</strong> 🍻 One co-authored paper has been accepted to <a href="https://2026.ieee-icra.org/">ICRA 2026</a>. </li>
         <li style="margin-top: 5px; margin-bottom: 5px;"><strong>Jan 26, 2026.</strong> 🍻 RobotArena ∞ has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>. </li>
