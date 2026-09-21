@@ -119,6 +119,17 @@ if (sections.length) {
   goTo(0);
 })();
 
+document.querySelectorAll('.project-card__media video').forEach(video => {
+  video.muted = true;
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) video.play().catch(() => {});
+      else video.pause();
+    });
+  }, { threshold: 0.35 });
+  io.observe(video);
+});
+
 // ============================================
 // Publications — Semantic Scholar API
 // ============================================

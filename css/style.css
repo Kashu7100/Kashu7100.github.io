@@ -473,10 +473,12 @@ section:last-child { border-bottom: none; }
   align-items: center;
   justify-content: center;
 }
-.project-card__media img {
+.project-card__media img,
+.project-card__media video {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  pointer-events: none;
 }
 
 .project-card__body { padding: 1rem 1.2rem; }
